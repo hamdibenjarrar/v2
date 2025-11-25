@@ -49,7 +49,15 @@ export default function RootLayout({
         <link 
           href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Slabo+27px&family=Poppins:wght@400;600;800&display=swap" 
           rel="stylesheet"
+          media="print"
+          onLoad="this.media='all'"
         />
+        <noscript>
+          <link 
+            href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Slabo+27px&family=Poppins:wght@400;600;800&display=swap" 
+            rel="stylesheet"
+          />
+        </noscript>
       </head>
       <body className="font-body antialiased">
         {children}

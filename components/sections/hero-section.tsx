@@ -3,7 +3,7 @@
 
 import { HeroVideo } from "./HeroVideo";
 import { HeroText } from "./HeroText";
-import { motion } from "framer-motion";
+import { LazyMotion, domAnimation, m } from "framer-motion";
 
 export function HeroSection() {
   const containerVariants = {
@@ -18,18 +18,20 @@ export function HeroSection() {
   };
 
   return (
-    <section className="relative h-screen w-full flex items-end justify-center text-white -mt-20 overflow-hidden">
-      <HeroVideo />
-      <div className="absolute inset-0 bg-gradient-to-b from-transparent to-black/70" />
-      
-      <motion.div
-        className="relative z-10 text-center px-4 pb-16 md:pb-24"
-        variants={containerVariants}
-        initial="hidden"
-        animate="visible"
-      >
-        <HeroText />
-      </motion.div>
-    </section>
+    <LazyMotion features={domAnimation} strict>
+      <section className="relative h-screen w-full flex items-end justify-center text-white -mt-20 overflow-hidden">
+        <HeroVideo />
+        <div className="absolute inset-0 bg-gradient-to-b from-transparent to-black/70" />
+        
+        <m.div
+          className="relative z-10 text-center px-4 pb-16 md:pb-24"
+          variants={containerVariants}
+          initial="hidden"
+          animate="visible"
+        >
+          <HeroText />
+        </m.div>
+      </section>
+    </LazyMotion>
   );
 }

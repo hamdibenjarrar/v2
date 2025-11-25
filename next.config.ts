@@ -59,7 +59,12 @@ const nextConfig: NextConfig = {
   },
   experimental: {
     optimizePackageImports: ['framer-motion', 'lucide-react', '@radix-ui/react-icons'],
+    scrollRestoration: true,
   },
+  swcMinify: true,
+  reactStrictMode: true,
+  poweredByHeader: false,
+  compress: true,
   devIndicators: {
     buildActivity: false,
   },

@@ -17,7 +17,7 @@ export function HeroVideo() {
           fill
           priority
           className="absolute z-0 object-cover"
-          quality={85}
+          quality={60}
           sizes="100vw"
         />
       )}
@@ -27,7 +27,7 @@ export function HeroVideo() {
           loop
           muted
           playsInline
-          preload="metadata"
+          preload="none"
           className="absolute z-0 w-auto min-w-full min-h-full max-w-none object-cover"
           aria-label="Background video of children playing"
           onLoadedData={() => setVideoLoaded(true)}
