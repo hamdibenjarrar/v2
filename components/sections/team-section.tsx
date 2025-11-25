@@ -35,7 +35,12 @@ export function TeamSection() {
         <div className="mt-8 flex justify-center -space-x-4">
           {teamImages.map((image, index) => image && (
             <Avatar key={index} className="w-16 h-16 border-4 border-background">
-              <AvatarImage src={image.imageUrl} alt={image.description} data-ai-hint={image.imageHint} />
+              <AvatarImage 
+                src={image.imageUrl} 
+                alt={image.description} 
+                data-ai-hint={image.imageHint}
+                className="object-cover w-full h-full"
+              />
               <AvatarFallback>WWC</AvatarFallback>
             </Avatar>
           ))}

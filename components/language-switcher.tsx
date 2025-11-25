@@ -24,10 +24,12 @@ export function LanguageSwitcher({ isScrolled }: { isScrolled?: boolean }) {
 
   return (
     <Select value={locale} onValueChange={handleLocaleChange}>
-      <SelectTrigger className={cn(
-        "w-auto border-none bg-transparent gap-2 focus:ring-0 focus:ring-offset-0",
-        isScrolled ? "text-white" : "text-primary"
-      )}>
+      <SelectTrigger 
+        aria-label="Select language"
+        className={cn(
+          "w-auto border-none bg-transparent gap-2 focus:ring-0 focus:ring-offset-0",
+          isScrolled ? "text-white" : "text-primary"
+        )}>
         <Globe className="h-4 w-4" />
         <SelectValue placeholder="Language" />
       </SelectTrigger>

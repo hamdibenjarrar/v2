@@ -174,7 +174,8 @@ export function Header() {
               asChild
               className={cn(
                 "rounded-full font-bold text-white transition-all duration-300 px-6 py-3 bg-accent hover:bg-accent/90",
-                "shadow-lg hover:shadow-xl hover:scale-105"
+                "shadow-lg hover:shadow-xl hover:scale-105",
+                "[text-shadow:0_1px_2px_rgba(0,0,0,0.3)]"
                 )}
               onMouseEnter={() => setIsDonateHovered(true)}
               onMouseLeave={() => setIsDonateHovered(false)}
