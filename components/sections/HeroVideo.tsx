@@ -1,32 +1,28 @@
 
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import Image from "next/image";
+import { useMediaQuery } from "@/hooks/use-media-query";
 
 export function HeroVideo() {
   const [videoError, setVideoError] = useState(false);
   const [videoLoaded, setVideoLoaded] = useState(false);
-  const [isMobile, setIsMobile] = useState(false);
-
-  useEffect(() => {
-    setIsMobile(window.innerWidth < 768);
-  }, []);
+  const isDesktop = useMediaQuery("(min-width: 768px)");
 
   return (
     <>
-      {(!videoLoaded || isMobile) && (
-        <Image
-          src="/wwpr.jpg"
-          alt="Children playing background"
-          fill
-          priority
-          className="absolute z-0 object-cover"
-          quality={50}
-          sizes="100vw"
-        />
-      )}
-      {!videoError && !isMobile && (
+      <Image
+        src="/wwpr.jpg"
+        alt="Children playing background"
+        fill
+        priority
+        fetchPriority="high"
+        className="absolute z-0 object-cover"
+        quality={40}
+        sizes="100vw"
+      />
+      {!videoError && isDesktop && (
         <video
           autoPlay
           loop
@@ -35,6 +31,7 @@ export function HeroVideo() {
           preload="none"
           className="absolute z-0 w-auto min-w-full min-h-full max-w-none object-cover"
           aria-label="Background video of children playing"
+          style={{ opacity: videoLoaded ? 1 : 0, transition: 'opacity 0.5s' }}
           onLoadedData={() => setVideoLoaded(true)}
           onError={() => {
             setVideoError(true);
