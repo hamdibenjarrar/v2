@@ -22,6 +22,7 @@ export function Logo({ className, isScrolled = false }: LogoProps) {
           isScrolled ? "brightness-0 invert" : ""
         )}
         style={{ height: 'auto', width: 'auto' }}
+        quality={60}
         priority
       />
     </div>

@@ -2,9 +2,7 @@
 'use client';
 import { useTranslations } from "next-intl";
 import Image from "next/image";
-import { PlaceHolderImages } from "@/lib/placeholder-images";
 import { AnimatedSection } from "@/components/animated-section";
-import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 
 export function TeamSection() {
   const t = useTranslations("Team");
@@ -34,19 +32,20 @@ export function TeamSection() {
         </h2>
         <div className="mt-8 flex justify-center -space-x-4">
           {teamImages.map((image, index) => image && (
-            <Avatar key={index} className="w-16 h-16 border-4 border-background">
-              <AvatarImage 
-                src={image.imageUrl} 
-                alt={image.description} 
-                data-ai-hint={image.imageHint}
-                className="object-cover w-full h-full"
+            <div key={index} className="w-16 h-16 border-4 border-background rounded-full overflow-hidden relative">
+              <Image
+                src={image.imageUrl}
+                alt={image.description}
+                fill
+                className="object-cover"
+                quality={40}
+                sizes="64px"
               />
-              <AvatarFallback>WWC</AvatarFallback>
-            </Avatar>
+            </div>
           ))}
-           <Avatar className="w-16 h-16 border-4 border-background bg-muted text-muted-foreground">
-              <div className="flex items-center justify-center h-full w-full font-bold">+</div>
-            </Avatar>
+           <div className="w-16 h-16 border-4 border-background rounded-full overflow-hidden bg-muted text-muted-foreground flex items-center justify-center">
+              <div className="font-bold">+</div>
+            </div>
         </div>
         <p className="mt-6 text-lg text-muted-foreground max-w-2xl mx-auto">
           {t("description")}

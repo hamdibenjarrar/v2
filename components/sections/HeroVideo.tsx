@@ -7,21 +7,26 @@ import Image from "next/image";
 export function HeroVideo() {
   const [videoError, setVideoError] = useState(false);
   const [videoLoaded, setVideoLoaded] = useState(false);
+  const [isMobile, setIsMobile] = useState(false);
+
+  useEffect(() => {
+    setIsMobile(window.innerWidth < 768);
+  }, []);
 
   return (
     <>
-      {!videoLoaded && (
+      {(!videoLoaded || isMobile) && (
         <Image
           src="/wwpr.jpg"
           alt="Children playing background"
           fill
           priority
           className="absolute z-0 object-cover"
-          quality={60}
+          quality={50}
           sizes="100vw"
         />
       )}
-      {!videoError && (
+      {!videoError && !isMobile && (
         <video
           autoPlay
           loop
