@@ -1,0 +1,1648 @@
+
+{
+  "Header": {
+    "whoWeAre": "Qui Nous Sommes",
+    "aboutUs": "À Propos de Nous",
+    "ourTeam": "Notre Équipe",
+    "ourPartners": "Nos Partenaires",
+    "transparency": "Transparence",
+    "contact": "Contact",
+    "ourImpact": "Notre Impact",
+    "greenSchool": "Green School",
+    "kidchen": "Kid'chen",
+    "ecolibre": "Écolibr'Ê",
+    "worldwide": "Projet Mondial",
+    "crescendo": "Crescendo",
+    "ambassade": "Ambassade de l'Enfance",
+    "joinMovement": "Rejoindre le Mouvement",
+    "joinUs": "Nous Rejoindre",
+    "internship": "Stage",
+    "stories": "Histoires & Actualités",
+    "media": "Médias",
+    "events": "Événements",
+    "blog": "Blog",
+    "cta": "Faire la Différence"
+  },
+  "AnimatedHero": {
+    "title": "Investissons dans l’enfance pour développer notre pays.",
+    "subtitle": "Parce que chaque défi social mérite une solution",
+    "words": {
+      "promising": "prometteuse",
+      "fair": "juste",
+      "innovative": "innovante",
+      "sustainable": "durable",
+      "united": "solidaire"
+    }
+  },
+  "Hero": {
+    "title": "Investir dans l'enfance pour un avenir durable.",
+    "subtitle": "Parce que chaque défi social mérite une solution entrepreneuriale.",
+    "cta_primary": "Rejoignez le Mouvement",
+    "cta_secondary": "Faire un Don"
+  },
+  "Mission": {
+    "title": "Nos Engagements",
+    "description": "Depuis 2012, Wallah We Can développe des solutions entrepreneuriales et écologiques pour répondre aux grandes problématiques sociales liées à l'enfance en Tunisie. À travers 4 projets phares, nous nous engageons à garantir 5 droits fondamentaux à chaque enfant.",
+    "rights": {
+      "health": {
+        "title": "Le droit à la santé",
+        "description": "Chaque enfant mérite un accès à une hygiène de vie décente : repas équilibrés, eau potable, soins médicaux réguliers, et protections hygiéniques pour les jeunes filles."
+      },
+      "education": {
+        "title": "Le droit à l'éducation",
+        "description": "Grâce à des outils numériques d'e-learning et un accompagnement scolaire ciblé, nous soutenons les élèves en situation de vulnérabilité."
+      },
+      "protection": {
+        "title": "Le droit à la protection",
+        "description": "Nous mettons en place des ateliers de sensibilisation et accompagnons les enfants victimes grâce à des professionnels engagés."
+      },
+      "flourishing": {
+        "title": "Le droit à l'épanouissement",
+        "description": "Nous créons des clubs d'activités pédagogiques, culturelles et sportives, animés par des jeunes diplômés de leur propre région."
+      }
+    },
+    "founder_quote": "Arrêtons l'humanitaire et investissons dans l'humain !",
+    "founder_name_short": "Lotfi Hamadi",
+    "founder_title_prefix": "Fondateur de",
+    "founder_org": "Wallah We Can"
+  },
+  "SocialEnterprise": {
+    "text": "WALLAH WE CAN initie des projets basés sur des solutions économiques, durables et écologiques. Ainsi, chacun des projets déployés par WALLAH WE CAN est une véritable entreprise sociale, visant à assurer un véritable impact bénéfique pour les enfants.",
+    "economique": "Économique",
+    "sustainable": "Durable",
+    "eco-friendly": "Écologique"
+  },
+  "Projects": {
+    "title": "Nos Projets Phares",
+    "cta": "En savoir plus",
+    "green_school": {
+      "title": "Green School",
+      "description": "Un projet visant à transformer les écoles en environnements durables et éducatifs avec autonomie énergétique et autosuffisance alimentaire.",
+      "link": "/impact/green-school"
+    },
+    "kidchen": {
+      "title": "Kid'chen",
+      "description": "Ateliers de cuisine pour enfants, promouvant la nutrition et la créativité tout en combattant la malnutrition scolaire par l'agriculture sociale et solidaire.",
+      "link": "/impact/kidchen"
+    },
+    "ecolibre": {
+      "title": "Écolibr'Ê",
+      "description": "Un programme d'autonomisation par l'éco-entrepreneuriat pour les jeunes, créant des opportunités durables.",
+      "link": "/impact/ecolibre"
+    },
+    "worldwide": {
+      "title": "Projet Mondial",
+      "description": "Nos initiatives s'étendent au-delà des frontières pour un impact global en France, au Liban et en Palestine.",
+      "link": "/impact/worldwide"
+    },
+    "crescendo": {
+      "title": "Crescendo",
+      "description": "Un projet musical engagé qui rassemble des artistes hip-hop et classiques pour financer des actions en faveur des enfants victimes de violences.",
+      "link": "/impact/crescendo"
+    },
+    "ambassade": {
+      "title": "Ambassade de l'Enfance",
+      "description": "Une initiative pour protéger et défendre les droits de l'enfant, en fournissant un soutien juridique et psychologique aux enfants victimes de violences.",
+      "link": "/impact/ambassade-de-lenfance"
+    }
+  },
+  "CrescendoProject": {
+    "title": "Projet Crescendo",
+    "subtitle": "Un projet musical engagé qui rassemble des artistes hip-hop et classiques pour financer des actions en faveur des enfants victimes de violences.",
+    "about": {
+      "title": "À propos du projet",
+      "description": "Crescendo est un projet musical initié par Wallah We Can pour financer l'Ambassade de l'Enfance. L'idée est de réunir des artistes de la scène hip-hop et de la scène classique pour transmettre des messages forts en faveur des droits de l'enfant."
+    },
+    "features": {
+      "title": "Caractéristiques Clés",
+      "music": {
+        "title": "Création Musicale",
+        "description": "Performances originales filmées dans des lieux emblématiques, mêlant les genres musicaux."
+      },
+      "collaboration": {
+        "title": "Collaboration d'Artistes",
+        "description": "Artistes et bénévoles engagés pour la cause de l'enfance."
+      },
+      "awareness": {
+        "title": "Sensibilisation",
+        "description": "Utiliser la musique comme un outil puissant pour sensibiliser le public aux droits de l'enfant."
+      }
+    }
+  },
+  "AmbassadeProject": {
+    "title": "Ambassade de l'Enfance",
+    "subtitle": "Une initiative pour protéger et défendre les droits de l'enfant, en fournissant un soutien juridique et psychologique aux enfants victimes de violences.",
+    "mission": {
+      "title": "Notre Mission",
+      "description": "L'Ambassade de l'Enfance a pour but d'être un refuge pour les enfants victimes de violence. Nous offrons un soutien complet, incluant une aide juridique, un conseil psychologique et un soutien éducatif, pour garantir la protection de leurs droits et de leur avenir."
+    },
+    "services": {
+      "title": "Nos Services",
+      "protection": {
+        "title": "Protection Juridique",
+        "description": "Nous offrons une assistance juridique gratuite pour garantir que les enfants soient protégés et que justice soit faite."
+      },
+      "support": {
+        "title": "Soutien Psycho-Social",
+        "description": "Nos spécialistes offrent conseils et soutien pour aider les enfants à guérir de leurs traumatismes."
+      },
+      "advocacy": {
+        "title": "Plaidoyer & Sensibilisation",
+        "description": "Nous travaillons à sensibiliser le public et à faire évoluer les politiques pour créer un environnement plus sûr pour les enfants."
+      }
+    }
+  },
+  "Impact": {
+    "title": "Nos Réalisations",
+    "stats": {
+      "farms": "Fermes agricoles",
+      "beekeeping_labs": "Laboratoire d'apiculture",
+      "cosmetics_labs": "Laboratoire de cosmétique",
+      "students_benefiting": "Élèves bénéficiant d'améliorations",
+      "boarders_showers": "Pensionnaires avec accès quotidien aux douches",
+      "produce_tons": "tonnes de fruits et légumes produits",
+      "balanced_meals": "Élèves avec repas plus équilibrés",
+      "graduates_employed": "Diplômés formés et employés",
+      "after_school_clubs": "Élèves en clubs périscolaires",
+      "menstrual_education": "Bénéficiaires d'éducation menstruelle",
+      "washable_pads": "Bénéficiaires de protections hygiéniques lavables",
+      "farmer_parents": "Parents agriculteurs employés",
+      "energy_kwh": "kWh produits par la ferme énergétique"
+    },
+    "values": {
+      "farms": 2,
+      "beekeeping_labs": 1,
+      "cosmetics_labs": 1,
+      "students_benefiting": 2000,
+      "boarders_showers": 1000,
+      "produce_tons": 500,
+      "balanced_meals": 1000,
+      "graduates_employed": 15,
+      "after_school_clubs": 2000,
+      "menstrual_education": 5000,
+      "washable_pads": 2000,
+      "farmer_parents": 65,
+      "energy_kwh": 360000
+    }
+  },
+  "CTA": {
+    "title": "Luttons ensemble pour que l'education partout pour tous",
+    "subtitle": "Rejoignez les projets WALLAH WE CAN dès aujourd'hui",
+    "donate": "Don",
+    "volunteer": "Bénévole"
+  },
+  "Team": {
+    "title": "Ceux qui s'engagent pour WALLAH WE CAN",
+    "description": "Ceux qui s'engagent se battent pour un avenir meilleur pour le pays. Ils ne se soucient pas des hauts et des bas quotidiens et se concentrent plutôt sur des actions et des projets à long terme."
+  },
+  "Partners": {
+    "title": "Nos Partenaires"
+  },
+  "Newsletter": {
+    "title": "Abonnez-vous à notre newsletter",
+    "description": "Abonnez-vous à notre newsletter mensuelle pour rester informé de toutes nos actualités.",
+    "placeholder": "Votre e-mail ici...",
+    "subscribe": "S'abonner"
+  },
+  "Footer": {
+    "description": "Investir dans l'enfance pour un avenir durable.",
+    "quickLinks": "Liens Rapides",
+    "contactUs": "Contactez-nous",
+    "joinUs": "Rejoignez-nous",
+    "newsletter": "Restez informé de nos actions.",
+    "donate": "Faire un Don",
+    "volunteer": "Bénévole",
+    "copyright": "© 2025 WALLAHWECAN - Tous droits réservés. Association loi 1901.",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions Générales du site"
+  },
+  "About": {
+    "title": "À propos",
+    "intro_title": "Wallah We Can (WWC)",
+    "intro_text": "Wallah We Can est une association tunisienne créée en 2012. L'association s'efforce de garantir aux enfants un accès équitable à l'éducation, un environnement propice à l'apprentissage et un cadre de vie décent. Elle met en œuvre des solutions durables, économiques et écologiques, garantissant aux enfants un développement et un épanouissement plus justes et plus équitables.",
+    "mission_title": "Parce que s'engager pour l'enfance aujourd'hui c'est investir dans les adultes de demain.",
+    "rights_title": "L'association développe des projets pour garantir aux enfants ces 5 droits fondamentaux :",
+    "rights": {
+      "education": {
+        "title": "Éducation",
+        "description": "Accès à une éducation de qualité pour tous."
+      },
+      "health": {
+        "title": "Santé",
+        "description": "Soins de santé et bien-être physique et mental."
+      },
+      "protection": {
+        "title": "Protection",
+        "description": "Protection contre la violence et l'exploitation."
+      },
+      "self_accomplishment": {
+        "title": "Épanouissement",
+        "description": "Développement personnel et expression de soi."
+      },
+      "dignified_life": {
+        "title": "Vie digne",
+        "description": "Conditions de vie respectueuses de la dignité humaine."
+      }
+    },
+    "projects_title": "WWC développe 2 projets pilotes :",
+    "projects": {
+      "green_school": {
+        "title": "GreenSchool",
+        "description": "Transformer les établissements scolaires publics en entreprises sociales créatrices de richesses photovoltaïques et agricoles afin d'améliorer le cadre de vie et d'étude des élèves.",
+        "cta": "Découvrir le projet"
+      },
+      "ecolibre": {
+        "title": "Ecolibree",
+        "description": "Lutter contre l'abandon scolaire et militer pour la santé et le bien-être, en offrant aux jeunes filles des zones marginalisées des kits de culottes menstruelles hygiéniques et écologiques.",
+        "cta": "Découvrir le projet"
+      }
+    },
+    "achievements_title": "Nos Réalisations",
+    "achievements": {
+      "title": "Nos Réalisations",
+      "health": {
+        "title": "SANTÉ",
+        "stats": [
+          {
+            "value": "15000",
+            "label": "culottes hygiéniques lavables distribuées"
+          },
+          {
+            "label": "Formations et sensibilisation aux questions de menstruation"
+          },
+          {
+            "label": "Productions de kits sanitaires lavables"
+          }
+        ]
+      },
+      "education": {
+        "title": "ÉDUCATION",
+        "stats": [
+          {
+            "value": "12",
+            "label": "clubs extrascolaires (entrepreneuriat, coding, basket féminin...)"
+          },
+          {
+            "value": "1",
+            "label": "terrain omnisports"
+          },
+          {
+            "value": "1",
+            "label": "salle de cinéma"
+          },
+          {
+            "value": "1",
+            "label": "salle E-learning"
+          }
+        ]
+      },
+      "energy": {
+        "title": "ÉNERGIE",
+        "stats": [
+          {
+            "value": "140",
+            "label": "modules photovoltaïques et 50 chauffe-eaux solaires installés"
+          },
+          {
+            "label": "Isolation et étanchéité des bâtiments"
+          },
+          {
+            "label": "Mise en conformité des installations électriques"
+          }
+        ]
+      },
+      "agriculture": {
+        "title": "AGRICULTURE",
+        "stats": [
+          {
+            "value": "8",
+            "label": "hectares de terres cultivés et une serre de 200 m²"
+          },
+          {
+            "value": "9",
+            "label": "parents employés dans le respect du droit du travail"
+          },
+          {
+            "value": "150",
+            "label": "tonnes de fruits et légumes récoltés par an"
+          }
+        ]
+      }
+    },
+    "cta_title": "Investissons dans l'enfance !",
+    "cta_subtitle": "Rejoignez-nous dans notre mission pour offrir un avenir meilleur aux enfants.",
+    "cta_button": "Faire un don"
+  },
+  "Contact": {
+    "title": "Contactez-Nous",
+    "subtitle": "Nous sommes là pour répondre à vos questions. Prenez contact avec nous !",
+    "formTitle": "Envoyez-nous un message",
+    "formSubtitle": "Réponse sous 24h",
+    "nameLabel": "Votre Nom",
+    "namePlaceholder": "Jean Dupont",
+    "emailLabel": "Votre Email",
+    "emailPlaceholder": "jean.dupont@exemple.com",
+    "subjectLabel": "Sujet",
+    "subjectPlaceholder": "Question sur un projet",
+    "reasonLabel": "Raison du contact",
+    "reasonPlaceholder": "Sélectionnez une raison",
+    "reasons": {
+      "general": "Question générale",
+      "partnership": "Partenariat",
+      "donation": "Donation",
+      "press": "Presse / Média",
+      "volunteer": "Bénévolat"
+    },
+    "messageLabel": "Votre Message",
+    "messagePlaceholder": "Écrivez votre message ici...",
+    "submitButton": {
+      "default": "Envoyer le Message",
+      "sending": "Envoi en cours..."
+    },
+    "detailsTitle": "Nos coordonnées",
+    "addressTitle": "Notre Bureau",
+    "addressValue": "11 Rue de Belgique, Tunis 1001, Tunisie",
+    "emailTitle": "Email",
+    "emailValue": "contact@wallahwecan.org",
+    "phoneTitle": "Téléphone",
+    "phoneValue": "+216 55 527 277",
+    "socialTitle": "Suivez-Nous",
+    "toast": {
+      "successTitle": "Message Envoyé !",
+      "successDescription": "Nous vous répondrons dans les plus brefs délais.",
+      "errorTitle": "Oups ! Une erreur est survenue.",
+      "errorDescription": "Votre message n'a pas pu être envoyé. Veuillez réessayer."
+    }
+  },
+  "Transparency": {
+    "hero": {
+      "title1": "Pour Wallah We Can, la bonne gouvernance N'EST PAS UN SIMPLE SLOGAN,",
+      "title2": "Pour Wallah We Can, la transparence EST UN DEVOIR",
+      "description": "Wallah We Can s'engage pour la bonne gouvernance en développant des règles et des pratiques qui garantissent le respect des droits des bénéficiaires, des engagés et des mécènes de manière transparente."
+    },
+    "hub": {
+      "title": "Le Hub de la Transparence",
+      "subtitle": "Explorez nos documents officiels, juridiques et financiers, organisés pour plus de clarté."
+    },
+    "sections": {
+      "legal": "Légal & Gouvernance",
+      "reports": "Rapports & Audits",
+      "partnerships": "Partenariats & Conventions"
+    },
+    "documents": {
+      "statutes": "Statuts fondateurs, PV d’assemblées et statuts modifiés",
+      "legal_licenses": "Patente, code en douane, RNE et exonération fiscale",
+      "jort": "Publication au JORT et déclaration d’existence",
+      "domiciliation_cnss": "Domiciliation et Caisse Nationale de Sécurité Sociale (CNSS)",
+      "tax_status": "Attestation de situation fiscale",
+      "org_chart": "Organigramme WallahWeCan Global",
+      "reports_2013_2019": "Rapports narratifs et états financiers de 2013 à 2019",
+      "reports_2020_2022": "Rapports narratifs, états financiers et audits de 2020 à 2022",
+      "narrative_report_2022": "Rapport narratif 2022",
+      "narrative_report_2023": "Rapport narratif 2023",
+      "financials_2023": "États financiers et audit 2023",
+      "ministry_agreements": "Conventions du Ministère de l'Éducation pour 2014 et 2023",
+      "dutch_donations": "Publication des dons de l'ambassade de Hollande",
+      "foreign_donations_2021_2023": "Publication des dons étrangers 2021-2023"
+    },
+    "buttons": {
+      "open": "Ouvrir le document",
+      "subscribe": "S'abonner"
+    },
+    "newsletter": {
+      "title": "Restez Informé. Restez Inspiré.",
+      "placeholder": "Votre adresse e-mail..."
+    },
+    "aria": {
+      "viewDocument": "Voir le document : {documentName}"
+    }
+  },
+  "GreenSchool": {
+    "Hero": {
+      "title_prefix": "Green School :",
+      "words": [
+        "durable",
+        "impactant",
+        "innovant"
+      ],
+      "since": "Projet depuis 2012",
+      "headline": "Faire de l'école un moteur d'impact",
+      "impacts": {
+        "educational": {
+          "title": "Impact éducatif",
+          "desc": "Prévenir le décrochage scolaire"
+        },
+        "social": {
+          "title": "Impact social",
+          "desc": "Créer des emplois locaux"
+        },
+        "sustainable": {
+          "title": "Impact durable",
+          "desc": "Modèle auto-suffisant"
+        }
+      },
+      "p1": "Depuis 2012, Wallah We Can développe des solutions entrepreneuriales et écologiques pour améliorer les conditions de vie et d'apprentissage des enfants. Avec GreenSchool, nous avons mis en œuvre un modèle innovant dans un collège-internat à Makthar (gouvernorat de Siliana), basé sur l'autonomie énergétique et l'autosuffisance alimentaire.",
+      "p2": "Les bénéfices générés sont réinvestis dans les infrastructures scolaires et les activités pédagogiques, tout en créant des emplois pour les parents — dans les champs, les cuisines ou l'entretien — renforçant ainsi l'impact local et solidaire."
+    },
+    "Pillars": {
+      "title": "Une école, quatre piliers de changement",
+      "subtitle": "Pour devenir une GreenSchool, chaque établissement peut s’engager dans une démarche de labellisation autour de 4 axes essentiels, alignés sur les Objectifs de Développement Durable (ODD) de l'ONU :",
+      "items": {
+        "health": {
+          "title": "Santé des élèves",
+          "description": "Assurer un accès à des soins de qualité et promouvoir des habitudes de vie saines pour tous les élèves."
+        },
+        "education": {
+          "title": "Éducation inclusive",
+          "description": "Offrir un cadre d'apprentissage adapté aux besoins de chaque enfant, favorisant l'épanouissement."
+        },
+        "food": {
+          "title": "Alimentation durable",
+          "description": "Développer une cantine scolaire auto-suffisante produisant des repas nutritifs et respectueux de l'environnement."
+        },
+        "energy": {
+          "title": "Énergie renouvelable",
+          "description": "Mettre en place des solutions énergétiques propres et durables pour l'autonomie de l'établissement."
+        }
+      },
+      "sdgs": {
+        "education": "ODD 4 - Éducation",
+        "health": "ODD 3 - Santé",
+        "hunger": "ODD 2 - Faim zéro",
+        "energy": "ODD 7 - Énergie"
+      },
+      "conclusion": "Les piliers de GreenSchool sont conçus pour répondre aux défis majeurs du système éducatif tunisien tout en créant un modèle d'école autonome et durable, réplicable ailleurs."
+    },
+    "BeforeAfter": {
+      "title": "Projet de Makthar : Avant et Après",
+      "subtitle": "Découvrez l'impact transformateur du projet GreenSchool à travers des images et des vidéos.",
+      "before": {
+        "title": "Avant l'intervention",
+        "description": "L'état initial des infrastructures et de l'environnement scolaire."
+      },
+      "after": {
+        "title": "Après l'intervention",
+        "description": "Découvrez le potager, les ateliers, la cantine et les panneaux solaires en action."
+      },
+      "videos": {
+        "title": "Vidéos du Projet",
+        "note": "Découvrez aussi les vidéos de la Ciné Radio Makthar et d'autres contenus inspirants."
+      }
+    },
+    "Team": {
+      "title": "Une équipe de terrain engagée",
+      "subtitle": "Les acteurs du changement qui rendent GreenSchool possible :",
+      "stats": {
+        "coordinators": "4 Coordinateurs",
+        "agronomists": "4 Agronomes",
+        "nutritionists": "4 Nutritionnistes",
+        "team": "10+ Membres"
+      },
+      "description": "Notre équipe pluridisciplinaire allie expertise agricole, nutritionnelle et pédagogique pour créer un écosystème scolaire autonome et durable.",
+      "members": {
+        "abrar": {
+          "name": "Abrar Nhouchi",
+          "role": "Coordinatrice",
+          "description": "Supervise la stratégie du projet et la coordination au quotidien."
+        },
+        "takwa": {
+          "name": "Takwa Tej",
+          "role": "Agronome",
+          "description": "Optimise les pratiques agricoles durables et la rotation des cultures."
+        },
+        "jamil": {
+          "name": "Jamil Ben Ayed",
+          "role": "Chef Cuisinier",
+          "description": "Transforme les récoltes en repas équilibrés pour les élèves."
+        },
+        "hela": {
+          "name": "Hela Habbessi",
+          "role": "Agronome",
+          "description": "Suit la santé des sols et la qualité de la production."
+        },
+        "rahma": {
+          "name": "Rahma Mansouri",
+          "role": "Agronome",
+          "description": "Contribue à l'expérimentation agroécologique locale."
+        },
+        "douha": {
+          "name": "Douha Ouerfelli",
+          "role": "Agronome",
+          "description": "Gère la logistique des intrants et semences."
+        },
+        "lina": {
+          "name": "Lina Jebali",
+          "role": "Nutritionniste",
+          "description": "Conçoit des menus équilibrés sur le plan nutritionnel."
+        },
+        "arij": {
+          "name": "Arij Khemiri",
+          "role": "Nutritionniste",
+          "description": "Analyse les apports et promeut une alimentation saine."
+        },
+        "ameni": {
+          "name": "Améni Beldi",
+          "role": "Animatrice Pédagogique",
+          "description": "Crée des ateliers de sensibilisation à l'environnement."
+        },
+        "mariem": {
+          "name": "Mariem Jendoubi",
+          "role": "Animatrice Sportive",
+          "description": "Encadre les activités physiques favorisant santé et engagement."
+        }
+      }
+    },
+    "CallToAction": {
+      "title": "Rejoignez le mouvement",
+      "subtitle": "Ensemble, transformons l'école en un moteur d'impact pour les enfants, les familles et les communautés.",
+      "cards": {
+        "dropout": {
+          "title": "Réduire le décrochage scolaire",
+          "subtitle": "Prévention et accompagnement personnalisé"
+        },
+        "dignity": {
+          "title": "Renforcer la dignité et la santé",
+          "subtitle": "Accès aux soins et bien-être des enfants"
+        },
+        "education": {
+          "title": "Éducation durable et inclusive",
+          "subtitle": "Modèle pédagogique innovant et écologique"
+        }
+      },
+      "donate": "Faire un don",
+      "getInvolved": "S'impliquer"
+    }
+  },
+  "KidChen": {
+    "Hero": {
+      "titlePrefix": "Kid'chen :",
+      "words": [
+        "communauté",
+        "avenir",
+        "éducation"
+      ],
+      "tagline": "Un modèle d'économie sociale et solidaire pour lutter contre la malnutrition dans les écoles",
+      "approachTitle": "Notre approche",
+      "approachParagraph": "En appliquant un modèle d'économie sociale et solidaire, Wallah We Can propose une solution durable pour lutter contre la malnutrition dans les écoles en les rendant autosuffisantes sur le plan alimentaire. Nous avons formé des parents sans emploi à l'agriculture durable, les avons employés pour cultiver 8 hectares de terres. Les fruits et légumes cultivés et récoltés sont distribués directement aux cantines scolaires. La production excédentaire est ensuite commercialisée pour autofinancer le projet."
+    },
+    "KeyFigures": {
+      "title": "Chiffres clés du projet pilote",
+      "subtitle": "Si un enfant a faim, apprenez à ses parents à cultiver !",
+      "items": {
+        "hectares": {
+          "main": "hectares",
+          "sub": "de terres cultivées"
+        },
+        "jobs": {
+          "main": "emplois",
+          "sub": "créés pour les parents"
+        },
+        "meals": {
+          "main": "repas",
+          "sub": "équilibrés et gratuits"
+        },
+        "tons": {
+          "main": "tonnes",
+          "sub": "de fruits et légumes"
+        },
+        "smsa": {
+          "value": "SMSA Kid'chen",
+          "main": "SMSA Kid'chen",
+          "sub": "modèle économique vertueux"
+        }
+      }
+    },
+    "Process": {
+      "title": "Le cycle du projet Kid'chen",
+      "steps": {
+        "exploitation": "Exploitation des terres",
+        "recoltes": "Récoltes",
+        "cantine": "Cantine scolaire",
+        "repas": "Repas gratuits et équilibrés",
+        "compostage": "Compostage des déchets",
+        "excedent": "Excédent commercialisé",
+        "vente": "Vente en ligne/supermarché",
+        "emplois": "Plus d'emplois créés",
+        "terres": "Plus de terres cultivées"
+      }
+    },
+    "Beneficiaries": {
+      "title": "Bénéficiaires du projet Kid'chen",
+      "parents": {
+        "title": "Parents",
+        "description": "Adultes sans emploi formés à l'agriculture, ils bénéficient d'un salaire juste, d'une couverture sociale et d'un transport sécurisé, favorisant une meilleure culture du travail et de meilleures conditions de vie."
+      },
+      "students": {
+        "title": "Élèves",
+        "description": "Les élèves bénéficieront de repas équilibrés et gratuits, ce qui se traduira par une meilleure concentration en classe, une meilleure éducation et une réduction du taux d'abandon scolaire."
+      }
+    },
+    "CallToAction": {
+      "title": "Soutenez Kid'chen : Nourrir l'avenir",
+      "subtitle": "Chaque contribution aide à cultiver un avenir plus sain et plus juste pour les enfants et leurs familles.",
+      "cards": {
+        "malnutrition": {
+          "title": "Lutter contre la malnutrition",
+          "subtitle": "Chez les enfants"
+        },
+        "meals": {
+          "title": "Assurer des repas équilibrés",
+          "subtitle": "Et gratuits"
+        },
+        "jobs": {
+          "title": "Créer des emplois durables",
+          "subtitle": "Pour les parents"
+        }
+      },
+      "donate": "Faire un don",
+      "getInvolved": "S'impliquer"
+    }
+  },
+  "Worldwide": {
+    "Hero": {
+      "titlePrefix": "Wallah We Can Worldwide :",
+      "words": [
+        "Global",
+        "Unis",
+        "Impact",
+        "Ensemble"
+      ],
+      "tagline": "Avec l'enfance, par l'éducation, pour un monde durable !"
+    },
+    "Intro": {
+      "title": "Wallah We Can Worldwide : Un Impact Mondial",
+      "description": "Fondée en 2012 en Tunisie et étendue en France depuis 2018, Wallah We Can Worldwide réplique le modèle GreenSchool au Liban et en Palestine pour transformer les établissements scolaires en entreprises sociales autonomes favorisant l'indépendance énergétique et alimentaire.",
+      "reachTitle": "Notre Portée Mondiale",
+      "countries": [
+        "France",
+        "Liban",
+        "Palestine"
+      ]
+    },
+    "MissionVision": {
+      "mission": {
+        "title": "Mission",
+        "description": "Répliquer le modèle GreenSchool à l'échelle mondiale pour relever les défis sociaux et environnementaux via des partenariats collaboratifs. Améliorer les conditions de vie et d'apprentissage en s'alignant sur les ODD de l'ONU pour une éducation de qualité, une énergie propre et la sécurité alimentaire."
+      },
+      "vision": {
+        "title": "Vision",
+        "description": "L'éducation partout, pour tous ! Un monde où chaque enfant bénéficie d'un environnement sain et enrichissant favorisant l'équité et la résilience climatique."
+      }
+    },
+    "ProjectDetails": {
+      "title": "Notre Mission Globale",
+      "details": {
+        "rehabilitation": {
+          "title": "Réhabilitation des infrastructures",
+          "description": "Rénover pour des conditions saines, impactant positivement la qualité de vie."
+        },
+        "energy": {
+          "title": "Indépendance énergétique",
+          "description": "Panneaux photovoltaïques pour un approvisionnement durable, réduisant les coûts et augmentant la résilience."
+        },
+        "food": {
+          "title": "Autosuffisance alimentaire",
+          "description": "Production agricole durable pour une meilleure nutrition et la génération de revenus."
+        },
+        "education": {
+          "title": "Programmes éducatifs",
+          "description": "Clubs et activités enrichissant l'apprentissage et préparant à l'avenir."
+        }
+      }
+    },
+    "Impact": {
+      "title": "Notre Impact en Action",
+      "countries": {
+        "france": {
+          "title": "France (depuis 2018)",
+          "description": "Promotion d'une <span class='text-accent font-semibold'>éducation inclusive et durable</span> améliorant les environnements pour des milliers d'<span class='text-accent font-semibold'>enfants vulnérables</span>, favorisant la diversité et l'égalité."
+        },
+        "palestine_bustan": {
+          "title": "Palestine - Association Al-Bustan (Jérusalem-Est)",
+          "description": "Un toit de <span class='text-accent font-semibold'>90 m²</span> transformé en aire de jeu et d'apprentissage sécurisée, soutenant la <span class='text-accent font-semibold'>résilience</span> communautaire face aux démolitions et desservant plus de <span class='text-accent font-semibold'>100 familles</span>.",
+          "points": [
+            "Transformation de 2 500 m² en agriculture régénérative",
+            "Récolte de 1 000 m³ d'eau de pluie par an",
+            "Plantation de 8 000 plantes aromatiques et création d'une distillerie"
+          ]
+        },
+        "palestine_dura": {
+          "title": "Palestine - École Primaire Mixte de Dura (Hébron)",
+          "description": "Atteindre l'<span class='text-accent font-semibold'>autonomie énergétique et alimentaire</span> par la réhabilitation et des programmes innovants, améliorant l'apprentissage et l'engagement communautaire via un partenariat municipal.",
+          "points": [
+            "Au service d'une communauté de plus de 40 000 habitants",
+            "Mise en œuvre de programmes éducatifs axés sur la durabilité",
+            "Favoriser le développement économique local par l'entreprise scolaire"
+          ]
+        }
+      }
+    },
+    "CTA": {
+      "title": "Rejoignez Notre Mouvement Mondial",
+      "subtitle": "Faites partie du changement. Soutenez nos initiatives mondiales et aidez-nous à créer un avenir plus radieux pour les enfants du monde entier.",
+      "supportButton": "Soutenir Notre Mission",
+      "involvedButton": "S'impliquer"
+    }
+  },
+  "Ecolibree": {
+    "Hero": {
+      "badge": "Lutte contre la précarité menstruelle",
+      "titlePrefix": "Écolibr'Ê :",
+      "words": [
+        "Dignité",
+        "Éducation",
+        "Autonomie"
+      ],
+      "subtitle": "L'histoire de la façon dont une simple découverte a déclenché un mouvement pour la justice menstruelle en Tunisie et au-delà.",
+      "stats": {
+        "girlsEmpowered": "Filles autonomisées",
+        "sustainedImpact": "Années d'impact",
+        "ecoFriendly": "Écologique",
+        "globalReach": "Portée mondiale"
+      },
+      "originTitle": "L'histoire",
+      "originParagraph": "C'est en voyant certains matelas dans les dortoirs des filles à l'internat de Makthar que nous avons découvert la réalité de la précarité menstruelle. Beaucoup de filles utilisaient de la mousse de leurs matelas comme protection menstruelle.",
+      "inspirationalQuote": "D'une simple découverte à un mouvement mondial."
+    },
+    "MissionVision": {
+      "title": "Notre engagement pour la justice menstruelle",
+      "mission": {
+        "title": "Mission",
+        "description": "Lutter contre l'abandon scolaire et soutenir la santé et le bien-être des étudiantes, en offrant aux jeunes écolières des protections hygiéniques lavables et écologiques."
+      },
+      "vision": {
+        "title": "Vision",
+        "description": "Faire de la Tunisie le premier pays à garantir un accès gratuit aux protections hygiéniques lavables pour toutes les filles."
+      },
+      "objectives": {
+        "title": "Objectifs",
+        "goals": [
+          "Normaliser les menstruations et briser les tabous grâce à une information large et décomplexée sur les menstruations.",
+          "Assurer la justice menstruelle pour toutes, avec un accès à une protection saine, économique et écologique.",
+          "Soutenir l'éducation des filles en éliminant les barrières liées aux règles."
+        ]
+      }
+    },
+    "Partnership": {
+      "title": "Un partenariat puissant : Écolibr'Ê x Chantelle",
+      "heading": "Quand l'expertise rencontre l'impact",
+      "collaboration": "Le projet est un partenariat entre Wallah We Can et le leader mondial de la lingerie française, Chantelle. Pour chaque pack Ecolibree x Chantelle vendu à l'international, nous nous engageons à distribuer un pack à une jeune fille souffrant de précarité menstruelle en Tunisie.",
+      "banner": "Un acheté, un offert",
+      "highlights": "Points forts",
+      "features": [
+        "Notre projet de lutte contre la précarité menstruelle inclut la mise en place d'ateliers pédagogiques.",
+        "Sensibilisation à la vie sexuelle et affective dans les écoles.",
+        "Le projet fournira des soins médicaux gratuits aux filles dans le besoin."
+      ],
+      "impactTitle": "Notre Impact",
+      "impact": "Ce modèle durable nous permet d'étendre notre portée tout en garantissant des produits de première qualité.",
+      "impactNote": "Chaque achat soutient directement une fille dans le besoin."
+    },
+    "Product": {
+      "title": "Plus qu'un produit : une promesse",
+      "values": {
+        "eco": "Écologique",
+        "economical": "Économique",
+        "sustainable": "Durable"
+      },
+      "description": "Fabriquées en coton 100% biologique, les culottes Ecolibree x Chantelle sont certifiées Oekotex, garantissant qu'aucun produit chimique nocif n'est utilisé à aucune étape de la fabrication. Ces culottes permettent une absorption et une circulation d'air optimales, contrairement aux serviettes hygiéniques jetables.",
+      "features": [
+        {
+          "key": "quality",
+          "title": "Qualité",
+          "description": "Fabriqué en coton biologique"
+        },
+        {
+          "key": "comfort",
+          "title": "Confort et durabilité",
+          "description": "Facile à utiliser et reste parfaitement en place"
+        },
+        {
+          "key": "eco",
+          "title": "Respectueux de l'environnement",
+          "description": "Fabriqué à partir de fibres recyclées, limitant ainsi son empreinte écologique."
+        },
+        {
+          "key": "social",
+          "title": "Socialement responsable",
+          "description": "Les sous-vêtements sont conformes aux normes ISO 20400"
+        }
+      ]
+    },
+    "Actions": {
+      "title": "Notre parcours d'impact",
+      "items": {
+        "productionUnit": {
+          "title": "Unité de production (2015)",
+          "description": "Création d'une unité de production de serviettes hygiéniques lavables/réutilisables par des femmes rurales, qui a permis de vendre 5000 serviettes et de distribuer le même nombre."
+        },
+        "workshops": {
+          "title": "Ateliers de sensibilisation",
+          "description": "Organisation d'ateliers dans les écoles sur l'hygiène menstruelle et l'éducation sexuelle, par Y Peer Tunisia."
+        },
+        "photoCampaign": {
+          "title": "Campagne 'C'est moi qui porte la culotte'",
+          "description": "Une campagne photo dans laquelle des femmes tunisiennes posent pour lutter contre les tabous entourant les menstruations."
+        },
+        "guide": {
+          "title": "Guide éducatif",
+          "description": "Développement d'un guide éducatif sur l'hygiène menstruelle, la vie sexuelle et affective pour les lycéens."
+        },
+        "medicalWorkshops": {
+          "title": "Ateliers médicaux",
+          "description": "Ateliers dans les écoles animés par des gynécologues, des pédopsychiatres et des étudiants en médecine."
+        },
+        "medicalCare": {
+          "title": "Soins médicaux gratuits",
+          "description": "Fourniture de soins médicaux gratuits aux étudiantes par des gynécologues et des pédopsychiatres."
+        }
+      }
+    },
+    "GuideGallery": {
+      "title": "Le guide éducatif",
+      "subtitle": "Briser les tabous, une page à la fois.",
+      "cta": "Cliquez sur les pages pour les voir",
+      "imageTitle": "Page {id}"
+    },
+    "MediaPartners": {
+      "title": "Partenaires médias en vedette",
+      "subtitle": "Nos partenaires médias qui amplifient notre message et partagent notre mission à travers le monde."
+    },
+    "Team": {
+      "title": "Rencontrez l'équipe",
+      "subtitle": "Les personnes dévouées qui animent la mission Écolibr'Ê.",
+      "description": "Ensemble, nous nous engageons à briser les barrières et à créer un monde où chaque fille est autonomisée.",
+      "photoAlt": "Photo de {name}",
+      "members": {
+        "imen": {
+          "name": "Imen Majed",
+          "role": "Coordinatrice de projet",
+          "description": "Dirige la vision stratégique et s'assure que chaque initiative est alignée sur notre mission principale."
+        },
+        "nesrine": {
+          "name": "Nesrine Morjane",
+          "role": "Créatrice de contenu | Ambassadrice WallahWeCan",
+          "description": "Crée des histoires captivantes qui amplifient notre impact et inspirent à l'action."
+        },
+        "saja": {
+          "name": "Saja Najar",
+          "role": "Créatrice de contenu | Ambassadrice WallahWeCan",
+          "description": "Interagit avec notre communauté et établit des partenariats significatifs pour faire avancer notre mission."
+        }
+      }
+    },
+    "CTA": {
+      "title": "Rejoignez-nous : Ensemble, nous pouvons mettre fin à la précarité menstruelle !",
+      "subtitle": "Souhaitez-vous aider les jeunes filles confrontées à l'abandon scolaire et soutenir une cause juste et engagée ? Rejoignez notre lutte contre la précarité menstruelle.",
+      "cards": {
+        "poverty": {
+          "title": "Lutter contre la précarité menstruelle",
+          "subtitle": "Chez les filles"
+        },
+        "access": {
+          "title": "Garantir l'accès à des produits d'hygiène",
+          "subtitle": "Sains et écologiques"
+        },
+        "jobs": {
+          "title": "Créer des emplois durables",
+          "subtitle": "Pour les femmes rurales"
+        }
+      }
+    },
+    "Videos": {
+      "title": "Vidéos Ecolibree",
+      "subtitle": "Découvrez les témoignages et interviews qui racontent l'histoire d'Ecolibree",
+      "badge": "Vidéos",
+      "YouTube": {
+        "tabTitle": "YouTube",
+        "items": [
+          {
+            "type": "youtube",
+            "title": "Présentation Ecolibree | YouTube",
+            "description": "Présentation générale du projet Ecolibree, de ses objectifs et de la manière dont il autonomise les jeunes femmes.",
+            "embedUrl": "https://www.youtube.com/embed/s2IGv52xdeE"
+          },
+          {
+            "type": "youtube",
+            "title": "TEDx | Lotfi Hamadi",
+            "description": "L'inspirante conférence TEDx du fondateur Lotfi Hamadi sur l'entrepreneuriat social et l'histoire de Wallah We Can.",
+            "embedUrl": "https://www.youtube.com/embed/7RkcSz7P9Ew"
+          }
+        ]
+      },
+      "Facebook": {
+        "tabTitle": "Facebook",
+        "items": [
+          {
+            "type": "facebook",
+            "title": "Lutte contre l'insécurité menstruelle",
+            "description": "Un reportage émouvant de Faza.tn sur le lancement de notre opération.",
+            "embedUrl": "https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Ffaza.tn%2Fvideos%2F1158118691662511%2F&show_text=true&width=560&t=0"
+          },
+          {
+            "type": "facebook",
+            "title": "Ecolibree x Chantelle",
+            "description": "L'histoire de notre partenariat, racontée par celles qui le font vivre au quotidien.",
+            "embedUrl": "https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Ffaza.tn%2Fvideos%2F1622593341437331%2F&show_text=false&width=560&t=0"
+          }
+        ]
+      },
+      "cta": {
+        "subtitle": "Suivez notre actualité sur les réseaux sociaux",
+        "facebook": "Suivre sur Facebook",
+        "youtube": "Voir plus de vidéos"
+      }
+    }
+  },
+  "JoinUs": {
+    "title": "Rejoignez le Mouvement",
+    "subtitle": "Vos compétences, votre passion et votre temps peuvent faire une réelle différence. Que vous soyez étudiant, professionnel ou simplement un citoyen engagé, il y a une place pour vous chez Wallah We Can. Remplissez le formulaire ci-dessous pour nous en dire plus sur vous et comment vous souhaitez contribuer.",
+    "form": {
+      "lastName": "Nom de famille",
+      "lastNamePlaceholder": "ex: Dupont",
+      "firstName": "Prénom",
+      "firstNamePlaceholder": "ex: Jean",
+      "age": "Âge",
+      "email": "Adresse e-mail",
+      "phone": "Numéro de téléphone",
+      "status": "Votre Statut",
+      "statusPlaceholder": "Sélectionnez votre statut actuel",
+      "statusOptions": {
+        "student": "Étudiant(e)",
+        "professional": "Professionnel(le)",
+        "volunteer": "Bénévole",
+        "entrepreneur": "Entrepreneur(e)",
+        "researcher": "Chercheur(e)",
+        "ngoMember": "Membre d'ONG",
+        "retired": "Retraité(e)",
+        "other": "Autre"
+      },
+      "otherStatus": "Si 'Autre', veuillez préciser",
+      "otherStatusPlaceholder": "Votre statut...",
+      "fieldOfStudy": "Domaine d'études ou Spécialité",
+      "fieldOfStudyPlaceholder": "ex: Développement Durable, Ingénierie...",
+      "skills": "Vos Compétences",
+      "skillsDescription": "Sélectionnez une ou plusieurs compétences que vous pouvez offrir.",
+      "skillsOptions": {
+        "communication": "Communication",
+        "graphicDesign": "Design Graphique",
+        "cleanEnergy": "Énergies Propres",
+        "agriculture": "Agriculture",
+        "entrepreneurship": "Entrepreneuriat",
+        "childrensRights": "Droits de l'Enfant",
+        "psychology": "Psychologie",
+        "accountingFinance": "Comptabilité & Finance",
+        "videoEditing": "Montage Vidéo",
+        "projectManagement": "Gestion de Projet",
+        "education": "Éducation",
+        "healthNutrition": "Santé & Nutrition",
+        "environmentSustainability": "Environnement & Durabilité",
+        "itDigitalTools": "Outils Informatiques & Numériques",
+        "fundraising": "Collecte de Fonds",
+        "other": "Autre"
+      },
+      "otherSkillPlaceholder": "Précisez d'autres compétences...",
+      "cv": "Téléchargez votre CV",
+      "cvDescription": "Format PDF ou DOCX uniquement, 10Mo maximum.",
+      "availability": "Votre Disponibilité",
+      "availabilityPlaceholder": "Sélectionnez votre disponibilité",
+      "availabilityOptions": {
+        "2h_week": "2h / semaine",
+        "4h_week": "4h / semaine",
+        "6h_week": "6h / semaine",
+        "more_6h_week": "Plus de 6h / semaine",
+        "occasionally": "Occasionnellement (événements)"
+      },
+      "message": "Votre Message",
+      "messagePlaceholder": "Dites-nous pourquoi vous voulez nous rejoindre et ce que vous espérez apporter...",
+      "submitButton": {
+        "default": "Nous Rejoindre",
+        "sending": "Envoi en cours..."
+      },
+      "validation": {
+        "lastNameRequired": "Le nom de famille est requis.",
+        "firstNameRequired": "Le prénom est requis.",
+        "ageRequired": "Veuillez entrer un âge valide.",
+        "emailInvalid": "Veuillez entrer une adresse e-mail valide.",
+        "phoneInvalid": "Veuillez entrer un numéro de téléphone valide.",
+        "statusRequired": "Veuillez sélectionner votre statut.",
+        "otherStatusRequired": "Veuillez préciser votre statut.",
+        "messageRequired": "Un message est requis.",
+        "cvRequired": "Veuillez télécharger votre CV.",
+        "cvSize": "Fichier trop volumineux. 10Mo maximum.",
+        "cvType": "Type de fichier invalide. PDF et DOCX uniquement.",
+        "availabilityRequired": "Veuillez sélectionner votre disponibilité."
+      },
+      "toast": {
+        "errorTitle": "Oups ! Une erreur est survenue.",
+        "errorDescription": "Votre candidature n'a pas pu être envoyée. Veuillez réessayer."
+      },
+      "success": {
+        "title": "Candidature Reçue !",
+        "description": "Merci d'avoir rejoint Wallah We Can ! Notre équipe vous contactera bientôt."
+      }
+    }
+  },
+  "Internship": {
+    "title": "Offres de Stage",
+    "subtitle": "Acquérez une expérience pratique, contribuez à des projets porteurs de sens et grandissez avec nous. Votre parcours pour avoir un impact réel commence ici.",
+    "form": {
+      "lastName": "Nom",
+      "lastNamePlaceholder": "ex : Smith",
+      "firstName": "Prénom",
+      "firstNamePlaceholder": "ex : Jane",
+      "age": "Âge",
+      "email": "Adresse e-mail",
+      "phone": "Numéro de téléphone",
+      "university": "Université",
+      "universityPlaceholder": "ex : Université de Tunis",
+      "fieldOfStudy": "Spécialité / Domaine d'études",
+      "fieldOfStudyPlaceholder": "ex : Relations Internationales",
+      "studyYear": "Année d'études",
+      "studyYearPlaceholder": "Sélectionnez votre année d'études",
+      "studyYearOptions": {
+        "bachelor1": "Licence (1ère année)",
+        "bachelor2": "Licence (2ème année)",
+        "bachelor3": "Licence (3ème année)",
+        "masterProfessional": "Master (Professionnel)",
+        "masterResearch": "Master (Recherche)",
+        "doctorate": "Doctorat / PhD",
+        "recentGraduate": "Jeune diplômé(e)",
+        "other": "Autre"
+      },
+      "otherStudyYear": "Si 'Autre', veuillez préciser",
+      "otherStudyYearPlaceholder": "Votre niveau d'études...",
+      "internshipType": "Type de stage",
+      "internshipTypePlaceholder": "Sélectionnez le type de stage",
+      "internshipTypeOptions": {
+        "academic": "Stage académique",
+        "professional": "Stage professionnel",
+        "voluntary": "Stage volontaire",
+        "endOfStudy": "Stage de fin d'études",
+        "summer": "Stage d'été",
+        "other": "Autre"
+      },
+      "otherInternshipType": "Si 'Autre', veuillez préciser",
+      "otherInternshipTypePlaceholder": "Type de stage...",
+      "startDate": "Date de début",
+      "endDate": "Date de fin",
+      "pickDate": "Choisissez une date",
+      "duration": "Durée",
+      "durationPlaceholder": "Sélectionnez une durée",
+      "durationOptions": {
+        "1_month": "1 mois",
+        "2_months": "2 mois",
+        "3_months": "3 mois",
+        "6_months": "6 mois",
+        "more": "Plus de 6 mois"
+      },
+      "message": "Message / Lettre de motivation",
+      "messagePlaceholder": "Décrivez vos objectifs, ce que vous espérez apprendre et pourquoi vous êtes un(e) bon(ne) candidat(e) pour Wallah We Can...",
+      "cv": "Téléchargez votre CV",
+      "cvDescription": "Format PDF ou DOCX uniquement, 10Mo maximum.",
+      "submitButton": {
+        "default": "Postuler maintenant",
+        "sending": "Envoi en cours..."
+      },
+      "validation": {
+        "lastNameRequired": "Le nom est requis.",
+        "firstNameRequired": "Le prénom est requis.",
+        "ageRequired": "Veuillez entrer un âge valide.",
+        "emailInvalid": "Veuillez entrer une adresse e-mail valide.",
+        "phoneInvalid": "Veuillez entrer un numéro de téléphone valide.",
+        "universityRequired": "Le nom de l'université est requis.",
+        "fieldOfStudyRequired": "Le domaine d'études est requis.",
+        "studyYearRequired": "Veuillez sélectionner votre année d'études.",
+        "otherStudyYearRequired": "Veuillez préciser votre année d'études.",
+        "internshipTypeRequired": "Veuillez sélectionner un type de stage.",
+        "otherInternshipTypeRequired": "Veuillez préciser le type de stage.",
+        "startDateRequired": "La date de début est requise.",
+        "endDateRequired": "La date de fin est requise.",
+        "endDateAfterStart": "La date de fin doit être après la date de début.",
+        "durationRequired": "Veuillez sélectionner une durée.",
+        "messageRequired": "Une lettre de motivation est requise.",
+        "cvRequired": "Veuillez télécharger votre CV.",
+        "cvSize": "Fichier trop volumineux. 10Mo maximum.",
+        "cvType": "Type de fichier invalide. PDF et DOCX uniquement."
+      },
+      "toast": {
+        "errorTitle": "Oups ! Une erreur est survenue.",
+        "errorDescription": "Votre candidature n'a pas pu être envoyée. Veuillez réessayer."
+      },
+      "success": {
+        "title": "Candidature Envoyée !",
+        "description": "Merci d'avoir postulé chez Wallah We Can ! Notre équipe RH vous contactera bientôt."
+      }
+    },
+    "why": {
+      "title": "Pourquoi faire un stage chez WWC ?",
+      "items": {
+        "experience": {
+          "title": "Acquérir une expérience concrète",
+          "description": "Travaillez dans le secteur associatif et humanitaire sur des projets qui font une réelle différence."
+        },
+        "impact": {
+          "title": "Contribuer à un impact social",
+          "description": "Participez à des projets concrets avec des résultats mesurables qui améliorent des vies et des communautés."
+        },
+        "mentorship": {
+          "title": "Un mentorat personnalisé",
+          "description": "Apprenez directement auprès d'experts passionnés qui se consacrent à votre développement professionnel."
+        },
+        "mission": {
+          "title": "Rejoindre une mission enrichissante",
+          "description": "Participez à une mission axée sur des valeurs qui autonomise les jeunes et construit un avenir durable."
+        }
+      }
+    }
+  },
+  "Media": {
+    "hero": {
+      "media": "MÉDIAS",
+      "life": "LA VIE",
+      "ticker": "Archibat • Inkyfada • DW • La Stampa • Leaders • Le Monde • Challenges • La Presse • France 24 • Al Jazeera • TV5 Monde Afrique • RFI • Africa Global Village • Euronews • L'Express • Mosaique FM • Africa News • Successful Tunisia • Press Bee • Arab News • Jeune Afrique • Le Petit Journal • Multing Book • Swissinfo • Medium • Femmes & Réalités • Web Manager Center • TAP Info • Webdo • Raseef 22 • 66Kif • Kapitalis • Tuni Business • Essentiel Int • Wepost • Express FM • Radio IFM • RTCI • Radio Jeune • Radio Nationale +++✨"
+    },
+    "dontClose": {
+      "line1": "NE FERMEZ PAS",
+      "line2": "LES YEUX"
+    },
+    "aboutText": "Wallah We Can, fondée par Lotfi Hamadi, est une association tunisienne qui révolutionne l'éducation et la protection de l'enfance par des solutions durables et innovantes. Du projet Green School, un internat autosuffisant en énergie et en nourriture, à Ecolibree, programme contre la précarité menstruelle, en passant par Wallah We Care pour l'accès à la santé et l'Ambassade de l'Enfance qui défend les droits des enfants, chaque initiative vise à bâtir un avenir plus juste. Ces actions, saluées par les médias nationaux et internationaux, placent la jeunesse au cœur du changement.",
+    "weAttractMedia": "On attire l'attention des médias",
+    "tv": {
+      "title": "Nos passages à la télé",
+      "videos": [
+        {
+          "label": "TV5 Monde",
+          "url": "https://www.youtube.com/embed/KLeqheFsGsE"
+        },
+        {
+          "label": "MOD",
+          "url": "https://www.youtube.com/embed/DlmnMQpLv60"
+        },
+        {
+          "label": "Attesia TV",
+          "url": "https://www.youtube.com/embed/bJANPMLNRa4"
+        }
+      ]
+    },
+    "radio": {
+      "title": "Nos passages à la radio",
+      "description": "Pour plus d'informations sur nos projets, initiatives et actions, regardez nos passages sur les radios préférées des Tunisiens.",
+      "videos": [
+        {
+          "label": "Mosaïque FM",
+          "url": "https://www.youtube.com/embed/3KQ--dhJvt0"
+        },
+        {
+          "label": "RTCI 2022",
+          "url": "https://www.youtube.com/embed/mY60COmVm-w"
+        },
+        {
+          "label": "RTCI",
+          "url": "https://www.youtube.com/embed/gfAvyicLRpQ"
+        },
+        {
+          "label": "Radio IFM",
+          "url": "https://www.youtube.com/embed/BtLaYGwUeeM"
+        },
+        {
+          "label": "Express FM",
+          "url": "https://www.youtube.com/embed/QnxNCQxyCro"
+        },
+        {
+          "label": "Radio Jeune",
+          "url": "https://www.youtube.com/embed/r7pFu9GAvUo"
+        },
+        {
+          "label": "Radio Nationale",
+          "url": "https://www.youtube.com/embed/fTa2VNaBk5Q"
+        },
+        {
+          "label": "Wepost",
+          "url": "https://www.youtube.com/embed/XdSX4z_7yws"
+        }
+      ]
+    },
+    "more": {
+      "title": "Plus d'articles...",
+      "articles": [
+        {
+          "link": "https://www.entreprises-magazine.com/wallah-we-can-elargit-son-action-avec-wallahwedo-une-societe-communautaire-pour-soutenir-leducation-en-tunisie",
+          "source": "Entreprises Magazine",
+          "title": "Wallah We Can étend son action avec WallahWeDo"
+        },
+        {
+          "link": "https://www.entreprises-magazine.com/wallah-we-can-et-lingref-revolutionnent-lapiculture-en-tunisie",
+          "source": "Entreprises Magazine",
+          "title": "Wallah We Can et l'INGREF révolutionnent l'apiculture en Tunisie"
+        },
+        {
+          "link": "https://www.webmanagercenter.com/2024/03/06/521679/wallah-we-can-et-lingref-sassocient-pour-developper-des-fermes-agricoles-durables",
+          "source": "Web Manager Center",
+          "title": "Wallah We Can et l'INGREF s'associent pour des fermes durables"
+        },
+        {
+          "link": "https://www.webmanagercenter.com/2023/11/29/517285/entrepreneuriat-social-wallah-we-can-decroche-son-premier-million-deuros",
+          "source": "Web Manager Center",
+          "title": "Wallah We Can obtient son premier million d'euros"
+        },
+        {
+          "link": "https://essentiel-int.com/wallah-we-can-lespoir-de-la-tunisie-repose-sur-sa-jeunesse",
+          "source": "Essentiel Int",
+          "title": "Wallah We Can : l'espoir de la Tunisie repose sur sa jeunesse"
+        }
+      ]
+    },
+    "cards": {
+      "media": [
+        {
+          "type": "external",
+          "desc": "Mise en place d'écoles autosuffisantes en Tunisie",
+          "href": "https://www.dw.com/en/setting-up-self-sufficient-schools-in-tunisia/video-64991383",
+          "image": "https://wxnjmlrnmqxnwtybppiz.supabase.co/storage/v1/object/sign/wwc-img/compressed_dw.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ3d2MtaW1nL2NvbXByZXNzZWRfZHcud2VicCIsImlhdCI6MTY4MjgzNjEwMCwiZXhwIjoxODQwNTE2MTAwfQ.5e8F_rB2Y_7qQ_zO9Z_2g_g_G_w_E_j_Z_Y_Q",
+          "label": "DW Documentaire",
+          "title": "DW : Mise en place d'écoles autosuffisantes en Tunisie"
+        },
+        {
+          "type": "external",
+          "desc": "Ambassade de l'Enfance : 70% des agressions sexuelles ciblent les enfants",
+          "href": "https://lapresse.tn/2020/11/25/lambassade-de-lenfance-70-des-agressions-sexuelles-ciblent-les-enfants",
+          "image": "https://wxnjmlrnmqxnwtybppiz.supabase.co/storage/v1/object/sign/wwc-img/compressed_la%20presse.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ3d2MtaW1nL2NvbXByZXNzZWRfbGEgcHJlc3NlLndlYnAiLCJpYXQiOjE2ODI4MzYyOTAsImV4cCI6MTg0MDUxNjI5MH0.z_g_Y_X_W_V_U_T_S_R_Q",
+          "label": "La Presse",
+          "title": "La Presse"
+        },
+        {
+          "type": "external",
+          "desc": "Tunisie : une école-entreprise sociale, un modèle à reproduire",
+          "href": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20220721-tunisie-une-école-entreprise-sociale-un-modèle-à-reproduire",
+          "image": "https://wxnjmlrnmqxnwtybppiz.supabase.co/storage/v1/object/sign/wwc-img/compressed_radio%20de%20france.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ3d2MtaW1nL2NvbXByZXNzZWRfcmFkaW8gZGUgZnJhbmNlLndlYnAiLCJpYXQiOjE2ODI4MzYzNjIsImV4cCI6MTg0MDUxNjM2Mn0.u_T_S_R_Q_P_O_N_M_L",
+          "label": "RFI",
+          "title": "Radio France Internationale"
+        },
+        {
+          "type": "external",
+          "desc": "Wallah We Can : des réussites à Siliana",
+          "href": "https://successfultunisia.com/2022/09/30/سليانة-في-مشروع-لجمعية-wallah-we-can-مدارس-تحقق-ا/?utm_source=Successful+Tunisia",
+          "image": "https://wxnjmlrnmqxnwtybppiz.supabase.co/storage/v1/object/sign/wwc-img/compressed_successfull%20tunisia.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ3d2MtaW1nL2NvbXByZXNzZWRfc3VjY2Vzc2Z1bGwgdHVuaXNpYS53ZWJwIiwiaWF0IjoxNjgyODM2NDA1LCJleHAiOjE4NDA1MTY0MDV9.k_J_I_H_G_F_E_D_C_B",
+          "label": "Successful Tunisia",
+          "title": "Successful Tunisia"
+        },
+        {
+          "type": "external",
+          "desc": "Tunisie : quand les femmes portent la culotte",
+          "href": "https://www.jeuneafrique.com/1284077/politique/tunisie-quand-les-femmes-portent-la-culotte",
+          "image": "https://wxnjmlrnmqxnwtybppiz.supabase.co/storage/v1/object/sign/wwc-img/compressed_jeune%20afrique.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ3d2MtaW1nL2NvbXByZXNzZWRfamV1bmUgYWZyaXF1ZS53ZWJwIiwiaWF0IjoxNjgyODM2MjQzLCJleHAiOjE4NDA1MTYyNDN9.x_W_V_U_T_S_R_Q_P_O",
+          "label": "Jeune Afrique",
+          "title": "Jeune Afrique"
+        },
+        {
+          "type": "external",
+          "desc": "Une très belle soirée à Dar El Kamila",
+          "href": "https://lepetitjournal.com/tunis/communaute/wallah-we-can-tres-belle-soiree-dar-el-kamila-52166",
+          "image": "https://wxnjmlrnmqxnwtybppiz.supabase.co/storage/v1/object/sign/wwc-img/compressed_le%20petit%20journal.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ3d2MtaW1nL2NvbXByZXNzZWRfbGUgcGV0aXQgam91cm5hbC53ZWJwIiwiaWF0IjoxNjgyODM2MzEwLCJleHAiOjE4NDA1MTYzMTB9.i_H_G_F_E_D_C_B_A_z",
+          "label": "Le Petit Journal",
+          "title": "Le Petit Journal"
+        },
+        {
+          "type": "external",
+          "desc": "Vers un modèle d'école durable en Tunisie",
+          "href": "https://medium.com/@akallel/towards-a-sustainable-school-model-in-tunisia-wallah-we-can-41eae52d5d82",
+          "image": "https://wxnjmlrnmqxnwtybppiz.supabase.co/storage/v1/object/sign/wwc-img/compressed_medium.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ3d2MtaW1nL2NvbXByZXNzZWRfbWVkaXVtLndlYnAiLCJpYXQiOjE2ODI4MzYzMzcsImV4cCI6MTg0MDUxNjMzN30.g_F_E_D_C_B_A_z_y_x",
+          "label": "Medium",
+          "title": "Medium"
+        },
+        {
+          "type": "external",
+          "desc": "I love Tunis port de France",
+          "href": "https://femmesetrealites.com.tn/2017/06/22/i-love-tunis-port-de-france",
+          "image": "https://wxnjmlrnmqxnwtybppiz.supabase.co/storage/v1/object/sign/wwc-img/compressed_femmes%20et%20realites.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ3d2MtaW1nL2NvbXByZXNzZWRfZmVtbWVzIGV0IHJlYWxpdGVzLndlYnAiLCJpYXQiOjE2ODI4MzYyMTcsImV4cCI6MTg0MDUxNjIxN30.o_N_M_L_K_J_I_H_G_F",
+          "label": "Femmes et Réalités",
+          "title": "Femmes et Réalités"
+        },
+        {
+          "type": "external",
+          "desc": "Éco-agriculture",
+          "href": "https://www.tap.info.tn/fr/Portail-Titres-de-l-actualité/13403277-eco-agriculture",
+          "image": "https://wxnjmlrnmqxnwtybppiz.supabase.co/storage/v1/object/sign/wwc-img/compressed_tap%20info.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ3d2MtaW1nL2NvbXByZXNzZWRfdGFwIGluZm8ud2VicCIsImlhdCI6MTY4MjgzNjQxOSwiZXhwIjoxODQwNTE2NDE5fQ.q_P_O_N_M_L_K_J_I_H",
+          "label": "TAP Info",
+          "title": "TAP Info"
+        },
+        {
+          "type": "external",
+          "desc": "Webdo Média",
+          "href": "https://www.webdo.tn/fr",
+          "image": "https://wxnjmlrnmqxnwtybppiz.supabase.co/storage/v1/object/sign/wwc-img/compressed_webdo.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ3d2MtaW1nL2NvbXByZXNzZWRfd2ViZG8ud2VicCIsImlhdCI6MTY4MjgzNjQ0MSwiZXhwIjoxODQwNTE2NDQxfQ.m_L_K_J_I_H_G_F_E_D",
+          "label": "Webdo",
+          "title": "Webdo"
+        },
+        {
+          "type": "external",
+          "desc": "Article sur la santé menstruelle en Tunisie",
+          "href": "https://raseef22.net/article/1081402-لجأت-لاستعمال-ملابس-أبي-الفوط-الصحية-للدورة-الشهرية-في-قرى-تونسية",
+          "image": "https://wxnjmlrnmqxnwtybppiz.supabase.co/storage/v1/object/sign/wwc-img/compressed_raseef22.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ3d2MtaW1nL2NvbXByZXNzZWRfcmFzZWVmMjIud2VicCIsImlhdCI6MTY4MjgzNjM3NiwiZXhwIjoxODQwNTE2Mzc2fQ.h_G_F_E_D_C_B_A_z_y",
+          "label": "Raseef 22",
+          "title": "Raseef 22"
+        },
+        {
+          "type": "external",
+          "desc": "Lutte contre la violence envers les enfants",
+          "href": "https://kapitalis.com/tunisie/2020/11/16/lassociation-wallah-we-can-sengage-pour-la-lutte-contre-les-violences-faites-aux-enfants",
+          "image": "https://wxnjmlrnmqxnwtybppiz.supabase.co/storage/v1/object/sign/wwc-img/compressed_kapitalis.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJ3d2MtaW1nL2NvbXByZXNzZWRfa2FwaXRhbGlzLndlYnAiLCJpYXQiOjE2ODI4MzYyNTgsImV4cCI6MTg0MDUxNjI1OH0.v_U_T_S_R_Q_P_O_N_M",
+          "label": "Kapitalis",
+          "title": "Kapitalis"
+        }
+      ],
+      "pdfs": []
+    }
+  },
+  "Events": {
+    "title": "Événements",
+    "subtitle": "Rejoignez nos événements caritatifs et de sensibilisation. Participez à nos actions spéciales pour soutenir nos projets.",
+    "read_more": "En savoir plus",
+    "events": {
+      "dinner_of_princes": {
+        "title": "Dîner des Princes",
+        "description": "Nos événements caritatifs pour les enfants."
+      },
+      "crescendo": {
+        "title": "Crescendo",
+        "description": "Le projet musical de WWC en collaboration avec des artistes."
+      }
+    }
+  },
+  "DinerDesPrinces": {
+    "Hero": {
+      "title": "Dîner des princes et princesses pour L’enfance",
+      "subtitle": "Nos évènements caritatifs pour les enfants."
+    },
+    "Intro": {
+      "title": "Des membres de familles royales et impériales d’Europe et d’Asie réunis pour soutenir la protection des enfants en Tunisie.",
+      "description": "Chaque année, Wallah We Can organise un évènement qui réunit des membres de la noblesse et de la Jetset internationale, ainsi que de prestigieuses marques telles que Dior, Dolce &Gabbana ou Chopard. WWC entend faire de ces invités les ambassadeurs de nos solutions en faveur de l’enfance dans le monde."
+    },
+    "GalaDior": {
+      "badge": "Gala Dior",
+      "title": "Un gala prestigieux avec la maison Dior",
+      "p1": "L’association Génération Liberté, qui a hébergé l’initiative Wallah We Can les premières années, a organisé, le 31 Mai 2014, un gala de charité à Dar Kamila, la résidence de l’Ambassadeur de France en Tunisie, avec le soutien de la maison de haute couture Dior.",
+      "p2": "Cet évènement a été organisé pour lever des fonds afin de transformer le collège internat de Makthar. En effet, cet établissement était dans un très mauvais état, avec très peu de moyens financiers et d’outils pédagogiques : cet établissement n’offrait aucun confort aux élèves. Garantir que chaque élève étudie dans des conditions confortables, tout en assurant le droit à l’éducation, à la santé, à la protection physique et juridique et à l’épanouissement : tels sont les objectifs des actions de WWC."
+    },
+    "International": {
+      "badge": "Lancement International",
+      "title": "Wallah We Can international",
+      "description": "En 2021, nous avons célébré au Sénat, Palais du Luxembourg, le lancement de Wallah We Can International : désormais, WWC est présente en France, en Belgique, en Angleterre, en Allemagne, en Algérie, au Luxembourg, au Canada, au Mexique, et aux Etats-Unis.",
+      "countries": ["France", "Belgique", "Angleterre", "Allemagne", "Algérie", "Luxembourg", "Canada", "Mexique", "USA"]
+    },
+    "Slimane": {
+      "badge": "Concert Caritatif",
+      "title": "Concert de Slimane",
+      "description": "Gagnant de l’émission The Voice France saison 5, Slimane a donné un concert en Tunisie en 2016, pour soutenir Wallah We Can. Les bénéfices du concert ont ainsi permis de créer certains clubs pédagogiques au sein du collège internat de Makthar.",
+      "flyerAlt": "Affiche promotionnelle pour un concert de Slimane"
+    },
+    "Media": {
+      "title": "Articles de presse",
+      "read_article": "Lire l'article",
+      "items": [
+        {
+          "name": "Jetset magazine",
+          "url": "https://www.jetsetmagazine.net/jetset,mag/wallah-we-can--organise-le-gala-dior---un-diner-caritatif-au-profit-des-internats-insalubres-en-tunisie-.6.2692.html",
+          "image": "/jets.png"
+        }
+      ]
+    },
+     "Videos": {
+        "title": "Vidéos de l'événement",
+        "video1_label": "Temps forts du Gala",
+        "video2_label": "Interviews"
+    }
+  },
+  "Crescendo": {
+    "Hero": {
+      "title": "Crescendo",
+      "subtitle": "Crescendo est un projet musical engagé porté par Wallah We Can pour financer des actions en faveur des enfants victimes de violence et promouvoir la culture comme vecteur d'espoir."
+    },
+    "Intro": {
+      "title": "Un projet musical engagé pour l'enfance",
+      "p1": "Crescendo est un projet musical lancé en 2020 par Wallah We Can pour financer notre projet de l’ambassade de l’enfance.",
+      "p2": "L’Ambassade de l’enfance a pour but d’accompagner les enfants victimes de violences et d’abus sexuels, par l’assistance et la mise à disposition de médecins et d’avocats.",
+      "p3": "Crescendo est un projet musical qui s’inspire du hiphop symphonique. L’idée est de réunir des artistes reconnus de la scène hiphop, ainsi que des références de la scène classique afin de transmettre des messages forts en faveur des droits des enfants, mais également pour dénoncer les violences faites à leur encontre.",
+      "alt": {
+        "flyer1": "Affiche Crescendo pour l'enfance",
+        "flyer2": "Affiche publicitaire du projet musical Crescendo"
+      },
+      "ambassadorTitle": "Ambassade de l'Enfance",
+      "ambassadorDescription": "Les fonds récoltés contribuent au financement de l'Ambassade de l'Enfance, un espace dédié à l'accueil, l'écoute et l'accompagnement des enfants victimes de violences."
+    },
+    "Concept": {
+      "title": "Le concept de Crescendo",
+      "items": {
+        "creation": {
+          "title": "Création musicale",
+          "description": "Des performances originales tournées dans des lieux emblématiques."
+        },
+        "mobilization": {
+          "title": "Mobilisation citoyenne",
+          "description": "Des artistes et des bénévoles engagés pour l'enfance."
+        },
+        "impact": {
+          "title": "Impact concret",
+          "description": "Des fonds récoltés pour financer des actions de protection."
+        }
+      }
+    },
+    "Episode1": {
+      "title": "Épisode 1",
+      "subtitle": "A.L.A feat ALLCHESTRA - Sur les toits de la médina",
+      "description": "Une performance inédite sur les toits de la médina qui a rencontré un succès fulgurant, sensibilisant un large public à notre cause.",
+      "stats": {
+        "views72h": "vues en 72h",
+        "viewsTotal": "vues au total"
+      },
+      "videos": {
+        "main": "Performance principale",
+        "makingOf": "Making of"
+      }
+    },
+    "Episode2": {
+      "title": "Épisode 2",
+      "subtitle": "\"Nebni\" - Lotfi Bouchnak, WMD et Empire",
+      "description": "Une collaboration unique entre des artistes de renom pour célébrer l'espoir et la reconstruction à travers la musique.",
+      "stats": {
+        "views": "YouTube vues"
+      }
+    },
+    "Press": {
+      "title": "Revue de presse",
+      "article": {
+        "source": "Kapitalis",
+        "title": "Crescendo sur les toits de la médina : un article sur la performance et l'objectif de financer un centre pour les enfants victimes de violences.",
+        "url": "https://kapitalis.com/tunisie/2021/03/03/wallah-we-can-crescendo-sur-le-toit-de-la-medina-pour-financer-un-centre-pour-les-enfants-victimes-de-violences-photos/",
+        "cta": "Lire l'article"
+      }
+    },
+    "Impact": {
+      "title": "Notre impact",
+      "description": "Grâce à Crescendo, nous transformons l'énergie de la musique en actions concrètes en faveur de l'enfance : sensibilisation, financement de structures d'accueil et accompagnement psychologique."
+    }
+  },
+  "GetInvolved": {
+    "shop": {
+      "officialPartner": "Partenaire Officiel Le Label",
+      "title": "Boutique Solidaire & Impact",
+      "subtitle": "Notre promesse : découvrir les meilleurs produits artisanaux et bio de nos terroirs tout en soutenant l'éducation.",
+      "discoverProducts": "Découvrir nos produits",
+      "downloadCatalog": "Télécharger notre catalogue PDF",
+      "artisanalBoxes": "Coffrets Artisanaux",
+      "organicProducts": "Produits Bio",
+      "schoolsSupported": "Écoles Soutenues",
+      "searchProducts": "Rechercher des produits...",
+      "allCategories": "Toutes les catégories",
+      "newest": "Nouveautés",
+      "priceAsc": "Prix : croissant",
+      "priceDesc": "Prix : décroissant",
+      "addToCart": "Ajouter au panier",
+      "category": {
+        "coffrets": "Coffrets",
+        "evasionBio": "Évasion Bio"
+      }
+    },
+    "teamBuilding": {
+      "strengthenTeams": "Renforcez vos Équipes, Transformez des Communautés",
+      "discoverUnique": "Découvrez nos services de team building uniques qui allient développement d'équipe et impact social positif. Ensemble, créons des expériences mémorables tout en soutenant notre communauté.",
+      "requestQuote": "Demander un Devis",
+      "contactUs": "Nous Contacter",
+      "ourPackages": "Nos Forfaits Team Building",
+      "package1": {
+        "name": "Le Miel de la Cohésion",
+        "duration": "Demi-journée",
+        "description": "Initiation à l'apiculture et petit-déjeuner berbère. Idéal pour une matinée immersive autour des ruches et du miel."
+      },
+      "package2": {
+        "name": "Senteurs & Synergie",
+        "duration": "Demi-journée",
+        "description": "Atelier sur les plantes aromatiques et déjeuner berbère. Une expérience axée sur la détente et la créativité."
+      },
+      "package3": {
+        "name": "Les Mains dans la Terre",
+        "duration": "Demi-journée",
+        "description": "Atelier de poterie et déjeuner traditionnel. Un moment de créativité et de partage."
+      },
+      "package4": {
+        "name": "Harmonie",
+        "duration": "Journée complète",
+        "description": "Apiculture, plantes aromatiques et poterie, suivis d'un petit-déjeuner et déjeuner berbères."
+      },
+      "package5": {
+        "name": "À la Carte",
+        "duration": "Personnalisable",
+        "description": "Personnalisation des activités selon les besoins de l'entreprise avec repas au choix."
+      },
+      "duration": "Durée",
+      "participants": "Participants",
+      "benefits": "Bénéfices",
+      "benefit1": "Accessible pour le marché local tout en offrant une expérience de haute qualité",
+      "benefit2": "Contribution directe au financement de projets sociaux et solidaires",
+      "logistics": "Logistique",
+      "logisticsDetails": "Nombre de participants : 10 à 30 (minimum 10 par réservation). Réservation : au moins 7 jours à l'avance. Transport : en option, sur demande.",
+      "collaborationProcess": "Notre Processus de Collaboration",
+      "processSteps": {
+        "step1": {
+          "title": "Consultation Initiale",
+          "description": "Nous analysons vos besoins, objectifs d'équipe et contraintes pour concevoir un programme sur mesure."
+        },
+        "step2": {
+          "title": "Conception Personnalisée",
+          "description": "Notre équipe élabore un programme unique adapté à votre culture d'entreprise et à vos objectifs spécifiques."
+        },
+        "step3": {
+          "title": "Préparation & Logistique",
+          "description": "Organisation complète de l'événement : lieu, matériel, équipe d'animation et coordination avec vos équipes."
+        },
+        "step4": {
+          "title": "Animation & Réalisation",
+          "description": "Exécution du programme avec nos animateurs experts et suivi des objectifs en temps réel."
+        },
+        "step5": {
+          "title": "Évaluation & Suivi",
+          "description": "Débriefing complet avec mesure d'impact, retours des participants et recommandations pour la suite."
+        }
+      },
+      "readyToTransform": "Prêts à Transformer Votre Équipe ?",
+      "contactUsToDiscuss": "Contactez-nous dès aujourd'hui pour discuter de vos besoins et découvrir comment nos services peuvent renforcer votre équipe tout en créant un impact positif.",
+      "requestPersonalizedQuote": "Demandez Votre Devis Personnalisé",
+      "tellUsYourNeeds": "Parlez-nous de vos besoins et de vos objectifs. Nous concevrons un programme de team-building unique qui renforce vos équipes tout en créant un impact social positif.",
+      "companyInformation": "Informations sur l'entreprise",
+      "companyName": "Nom de l'entreprise",
+      "contactPerson": "Personne de contact",
+      "workEmail": "Email professionnel",
+      "phone": "Téléphone",
+      "projectDetails": "Détails du projet",
+      "teamSize": "Taille de l'équipe",
+      "preferredDates": "Dates préférées",
+      "servicesOfInterest": "Services d'intérêt",
+      "service": {
+        "solidarity": "Ateliers Solidaires",
+        "environmental": "Défis Environnementaux",
+        "creative": "Projets Communautaires Créatifs",
+        "leadership": "Formation au Leadership Social",
+        "hackathons": "Hackathons Solidaires",
+        "humanitarian": "Expéditions Humanitaires"
+      },
+      "estimatedBudget": "Budget estimé",
+      "budget": {
+        "1-5k": "1 000 - 5 000 DT",
+        "5-10k": "5 000 - 10 000 DT",
+        "10-20k": "10,000 - 20,000 DT",
+        "20k+": "20,000+ DT",
+        "custom": "Budget personnalisé"
+      },
+      "yourMessage": "Votre Message",
+      "newsletterOptIn": "Je souhaite recevoir des informations sur vos prochains programmes et événements",
+      "acceptTerms": "J'accepte les conditions d'utilisation et la politique de confidentialité",
+      "sendMyRequest": "Envoyer ma demande",
+      "responsePromise": "Nous vous répondrons dans les 24 heures ouvrables"
+    }
+  },
+  "DonatePage": {
+    "title": "Faire un don",
+    "subtitle": "Soutenez nos projets et accélérez notre impact.",
+    "why_donate": {
+      "title": "Pourquoi faire un don ?",
+      "description": "Wallah We Can est une initiative citoyenne qui, grâce au soutien d'entreprises et de particuliers, développe des projets durables qui ont un impact direct sur les conditions de vie et d'apprentissage des enfants."
+    },
+    "difference": {
+      "title": "Votre don fait la différence",
+      "description": "Transformez votre soutien en action concrète en contribuant aujourd'hui aux projets de Wallah We Can en Tunisie."
+    },
+    "code_of_conduct": {
+      "text1": "Wallah We Can a adopté un code de bonne conduite qui régit la gestion des dons et assure la transparence envers les donateurs.",
+      "text2": "Pour plus d'informations, ",
+      "contact_us": "contactez-nous"
+    },
+    "bank_transfer": {
+      "title": "Faire un don par virement bancaire",
+      "tunisia": {
+        "title": "Tunisie",
+        "association": "Association",
+        "agency": "Agence",
+        "phone": "Téléphone",
+        "currency": "Devise",
+        "address": "Adresse"
+      },
+      "france": {
+        "title": "France",
+        "association": "Association",
+        "agency": "Agence",
+        "currency": "Devise",
+        "address": "Adresse"
+      }
+    },
+    "receipt": {
+      "title": "Souhaitez-vous un reçu ?",
+      "description": "Si vous souhaitez un reçu, écrivez-nous à"
+    },
+    "copy": "Copier",
+    "toast": {
+      "copied": "Copié !",
+      "clipboard": "a été copié dans votre presse-papiers."
+    }
+  }
+}

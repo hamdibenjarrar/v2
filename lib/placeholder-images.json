@@ -1,0 +1,389 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "A group of happy children in a sunny, hopeful environment.",
+      "imageUrl": "https://images.unsplash.com/photo-1606092195730-5d7b9af1efc5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxoYXBweSUyMGNoaWxkcmVufGVufDB8fHx8MTc2MjQ0NDE1Mnww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "happy children"
+    },
+    {
+      "id": "mission-right-health",
+      "description": "Child smiling, representing health.",
+      "imageUrl": "https://images.unsplash.com/photo-1599587620435-07e03f90538a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjaGlsZCUyMGhlYWx0aHxlbnwwfHx8fDE3NjM3NjM4OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "child health"
+    },
+    {
+      "id": "mission-right-education",
+      "description": "Child reading a book, representing education.",
+      "imageUrl": "https://images.unsplash.com/photo-1532012197267-da84d127e765?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjaGlsZCUyMGVkdWNhdGlvbnxlbnwwfHx8fDE3NjM3NjM4OTJ8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "child education"
+    },
+    {
+      "id": "mission-right-protection",
+      "description": "Child feeling safe and protected.",
+      "imageUrl": "https://images.unsplash.com/photo-1549494303-3b7c844b34a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjaGlsZCUyMHByb3RlY3Rpb258ZW58MHx8fHwxNzYzNzYzODkyfDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "child protection"
+    },
+    {
+      "id": "mission-right-flourishing",
+      "description": "Child playing happily, representing flourishing.",
+      "imageUrl": "https://images.unsplash.com/photo-1541336022839-826d7c71a1d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjaGlsZCUyMHBsYXlpbmd8ZW58MHx8fHwxNzYzNzYzODkyfDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "child playing"
+    },
+    {
+      "id": "mission-health",
+      "description": "Young girl smiling, representing health and well-being.",
+      "imageUrl": "https://images.unsplash.com/photo-1543402259-c52a0778dbd1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzbWlsaW5nJTIwZ2lybHxlbnwwfHx8fDE3NjI1MDgzMTd8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "smiling girl"
+    },
+    {
+      "id": "mission-education",
+      "description": "Little girl writing on paper, focused on her education.",
+      "imageUrl": "https://images.unsplash.com/photo-1517971071642-34a2d3ecc9cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxnaXJsJTIwd3JpdGluZ3xlbnwwfHx8fDE3NjI0NDY1OTN8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "girl writing"
+    },
+    {
+      "id": "mission-protection",
+      "description": "An adult protecting a child, symbolizing safety.",
+      "imageUrl": "https://images.unsplash.com/photo-1648561272681-3ad4fdfadb68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjaGlsZCUyMHByb3RlY3Rpb258ZW58MHx8fHwxNzYyNDkxNDYzfDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "child protection"
+    },
+    {
+      "id": "mission-accomplishment",
+      "description": "Brown-haired boy smiling, representing self-accomplishment.",
+      "imageUrl": "https://images.unsplash.com/photo-1552873816-636e43209957?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzbWlsaW5nJTIwYm95fGVufDB8fHx8MTc2MjQ4NzYyMXww&ixlibrb-4.1.0&q=80&w=1080",
+      "imageHint": "smiling boy"
+    },
+    {
+      "id": "mission-founder",
+      "description": "Portrait of the founder, Lotfi Hamadi.",
+      "imageUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI0MTg2MjZ8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "project-green-school",
+      "description": "A sustainable school environment with greenery.",
+      "imageUrl": "https://images.unsplash.com/photo-1755564829583-0a85754bff31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxncmVlbiUyMHNjaG9vbHxlbnwwfHx8fDE3NjI1MDgzMTd8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "green school"
+    },
+    {
+      "id": "project-kidchen",
+      "description": "Children learning to cook in a bright kitchen.",
+      "imageUrl": "https://images.unsplash.com/photo-1610558269197-70cfbad7c556?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjaGlsZHJlbiUyMGNvb2tpbmd8ZW58MHx8fHwxNzYyNDUxMDczfDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "children cooking"
+    },
+    {
+      "id": "project-ecolibre",
+      "description": "Young people engaged in an eco-entrepreneurship workshop.",
+      "imageUrl": "https://images.unsplash.com/photo-1640677909806-fe6cfd89730c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx5b3VuZyUyMGVudHJlcHJlbmV1cnN8ZW58MHx8fHwxNzYyNTA4MzE3fDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "young entrepreneurs"
+    },
+    {
+      "id": "about-hero-background",
+      "description": "Children holding colorful umbrellas together.",
+      "imageUrl": "https://images.unsplash.com/photo-1576186063853-2bab62cf07d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjaGlsZHJlbiUyMGNvbG9yZnVsJTIwdW1icmVsbGFzfGVufDB8fHx8MTc2MjYxNzk5NHww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "children umbrellas"
+    },
+    {
+      "id": "about-project-greenschool",
+      "description": "A sustainable school environment with greenery.",
+      "imageUrl": "https://images.unsplash.com/photo-1674239172385-bf1f99c9c5f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxncmVlbiUyMHNjaG9vbHxlbnwwfHx8fDE3NjI1MDgzMTd8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "green school"
+    },
+    {
+      "id": "about-project-ecolibre",
+      "description": "A group of young women smiling.",
+      "imageUrl": "https://images.unsplash.com/photo-1621903570450-b6750dce9350?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx5b3VuZyUyMHdvbWVufGVufDB8fHx8MTc2MjUxNTA4OXww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "young women"
+    },
+    {
+      "id": "project-worldwide",
+      "description": "A map of the world showing global reach.",
+      "imageUrl": "https://images.unsplash.com/photo-1712150177656-b3c0bd50eb25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx3b3JsZCUyMG1hcHxlbnwwfHx8fDE3NjIzOTg5MzF8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "world map"
+    },
+    {
+      "id": "cta-background",
+      "description": "A powerful image of community and togetherness.",
+      "imageUrl": "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb21tdW5pdHl8ZW58MHx8fHwxNzYyNTA4MzE3fDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "community"
+    },
+    {
+      "id": "newsletter-background",
+      "description": "Close-up of diverse hands held together, symbolizing aid and community.",
+      "imageUrl": "https://images.unsplash.com/photo-1531545514256-b1400bc00f31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhaWQlMjBoYW5kc3xlbnwwfHx8fDE3NjI2MjYxNDh8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "aid hands"
+    },
+    {
+      "id": "team-member-1",
+      "description": "Portrait of a team member.",
+      "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI0NzE2NDF8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "team-member-2",
+      "description": "Portrait of another team member.",
+      "imageUrl": "https://images.unsplash.com/photo-1540569014015-19a7be504e3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI0NzE2NDF8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "team-member-3",
+      "description": "Portrait of a third team member.",
+      "imageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI0NzE2NDF8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "partner-logo-1",
+      "description": "Logo of a partner organization.",
+      "imageUrl": "https://images.unsplash.com/photo-1562705121-e624542c7b9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y29tcGFueSUyMGxvZ298ZW58MHx8fHwxNzYyNDY1ODY5fDA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "company logo"
+    },
+    {
+      "id": "partner-logo-2",
+      "description": "Logo of a partner organization.",
+      "imageUrl": "https://images.unsplash.com/photo-1549924231-f129b911e442?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjb21wYW55JTIwbG9nb3xlbnwwfHx8fDE3NjI0NjU4Njl8MA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "company logo"
+    },
+    {
+      "id": "partner-logo-3",
+      "description": "Logo of a partner organization.",
+      "imageUrl": "https://images.unsplash.com/photo-1622465911368-72162f8da3e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjb21wYW55JTIwbG9nb3xlbnwwfHx8fDE3NjI0NjU4Njl8MA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "company logo"
+    },
+    {
+      "id": "partner-logo-4",
+      "description": "Logo of a partner organization.",
+      "imageUrl": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb21wYW55JTIwbG9nb3xlbnwwfHx8fDE3NjI0NjU4Njl8MA&ixlibrb-4.1.0&q=80&w=1080",
+      "imageHint": "company logo"
+    },
+    {
+      "id": "partner-logo-5",
+      "description": "Logo of a partner organization.",
+      "imageUrl": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb21wYW55JTIwbG9nb3xlbnwwfHx8fDE3NjI0NjU4Njl8MA&ixlibrb-4.1.0&q=80&w=1080",
+      "imageHint": "company logo"
+    },
+    {
+      "id": "partner-logo-6",
+      "description": "Logo of a partner organization.",
+      "imageUrl": "https://images.unsplash.com/photo-1622465911368-72162f8da3e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjb21wYW55JTIwbG9nb3xlbnwwfHx8fDE3NjI0NjU4Njl8MA&ixlibrb-4.1.0&q=80&w=1080",
+      "imageHint": "company logo"
+    },
+    {
+      "id": "green-school-health",
+      "description": "Child receiving medical check-up.",
+      "imageUrl": "https://picsum.photos/seed/gs-health/600/400",
+      "imageHint": "child health"
+    },
+    {
+      "id": "green-school-education",
+      "description": "Children in a classroom.",
+      "imageUrl": "https://picsum.photos/seed/gs-edu/600/400",
+      "imageHint": "children classroom"
+    },
+    {
+      "id": "green-school-food",
+      "description": "Fresh vegetables from a garden.",
+      "imageUrl": "https://picsum.photos/seed/gs-food/600/400",
+      "imageHint": "fresh vegetables"
+    },
+    {
+      "id": "green-school-energy",
+      "description": "Solar panels on a roof.",
+      "imageUrl": "https://picsum.photos/seed/gs-energy/600/400",
+      "imageHint": "solar panels"
+    },
+    {
+      "id": "green-school-before",
+      "description": "Dilapidated school building.",
+      "imageUrl": "https://picsum.photos/seed/gs-before/600/400",
+      "imageHint": "old building"
+    },
+    {
+      "id": "green-school-after",
+      "description": "Renovated school building with a garden.",
+      "imageUrl": "https://picsum.photos/seed/gs-after/600/400",
+      "imageHint": "new building"
+    },
+    {
+      "id": "team-abrar",
+      "description": "Portrait of Abrar Nhouchi.",
+      "imageUrl": "https://picsum.photos/seed/team-abrar/400/400",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "team-takwa",
+      "description": "Portrait of Takwa Tej.",
+      "imageUrl": "https://picsum.photos/seed/team-takwa/400/400",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "team-jamil",
+      "description": "Portrait of Jamil Ben Ayed.",
+      "imageUrl": "https://picsum.photos/seed/team-jamil/400/400",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "team-hela",
+      "description": "Portrait of Hela Habbessi.",
+      "imageUrl": "https://picsum.photos/seed/team-hela/400/400",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "team-rahma",
+      "description": "Portrait of Rahma Mansouri.",
+      "imageUrl": "https://picsum.photos/seed/team-rahma/400/400",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "team-douha",
+      "description": "Portrait of Douha Ouerfelli.",
+      "imageUrl": "https://picsum.photos/seed/team-douha/400/400",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "team-lina",
+      "description": "Portrait of Lina Jebali.",
+      "imageUrl": "https://picsum.photos/seed/team-lina/400/400",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "team-arij",
+      "description": "Portrait of Arij Khemiri.",
+      "imageUrl": "https://picsum.photos/seed/team-arij/400/400",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "team-ameni",
+      "description": "Portrait of Améni Beldi.",
+      "imageUrl": "https://picsum.photos/seed/team-ameni/400/400",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "team-mariem",
+      "description": "Portrait of Mariem Jendoubi.",
+      "imageUrl": "https://picsum.photos/seed/team-mariem/400/400",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "worldwide-france",
+      "description": "Children in a classroom in France.",
+      "imageUrl": "https://picsum.photos/seed/ww-france/800/600",
+      "imageHint": "classroom children"
+    },
+    {
+      "id": "worldwide-palestine_bustan",
+      "description": "A rooftop garden in an urban area.",
+      "imageUrl": "https://picsum.photos/seed/ww-bustan/800/600",
+      "imageHint": "rooftop garden"
+    },
+    {
+      "id": "worldwide-palestine_dura",
+      "description": "A renovated school exterior with children playing.",
+      "imageUrl": "https://picsum.photos/seed/ww-dura/800/600",
+      "imageHint": "school children"
+    },
+    {
+      "id": "ecolibree-hero",
+      "description": "Empowering image related to menstrual hygiene products.",
+      "imageUrl": "https://picsum.photos/seed/ecolibree-hero/800/600",
+      "imageHint": "women empowerment"
+    },
+    {
+      "id": "ecolibree-mission-bg",
+      "description": "Soft, abstract background with pink and rose tones.",
+      "imageUrl": "https://picsum.photos/seed/ecolibree-mission/1200/800",
+      "imageHint": "abstract background"
+    },
+    {
+      "id": "ecolibree-partnership-bg",
+      "description": "Chantelle and Wallah We Can logos or branding elements combined.",
+      "imageUrl": "https://picsum.photos/seed/ecolibree-partner/1200/600",
+      "imageHint": "brand collaboration"
+    },
+    {
+      "id": "ecolibree-product",
+      "description": "High-quality image of the Ecolibree period panties.",
+      "imageUrl": "https://picsum.photos/seed/ecolibree-panties/600/600",
+      "imageHint": "hygiene product"
+    },
+    {
+      "id": "ecolibree-guide-1",
+      "description": "Page 1 of the educational guide.",
+      "imageUrl": "https://picsum.photos/seed/guide-1/800/1100",
+      "imageHint": "book page"
+    },
+    {
+      "id": "ecolibree-guide-2",
+      "description": "Page 2 of the educational guide.",
+      "imageUrl": "https://picsum.photos/seed/guide-2/800/1100",
+      "imageHint": "book page"
+    },
+    {
+      "id": "ecolibree-guide-3",
+      "description": "Page 3 of the educational guide.",
+      "imageUrl": "https://picsum.photos/seed/guide-3/800/1100",
+      "imageHint": "book page"
+    },
+    {
+      "id": "team-imen-majed",
+      "description": "Portrait of Imen Majed.",
+      "imageUrl": "https://picsum.photos/seed/team-imen/400/400",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "team-nesrine-morjane",
+      "description": "Portrait of Nesrine Morjane.",
+      "imageUrl": "https://picsum.photos/seed/team-nesrine/400/400",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "team-saja-najar",
+      "description": "Portrait of Saja Najar.",
+      "imageUrl": "https://picsum.photos/seed/team-saja/400/400",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "diner-des-princes-hero",
+      "description": "Elegant dinner setting with royal ambiance",
+      "imageUrl": "https://picsum.photos/seed/diner-hero/1920/1080",
+      "imageHint": "royal dinner"
+    },
+    {
+      "id": "diner-gala-dior",
+      "description": "High fashion event with Dior branding",
+      "imageUrl": "https://picsum.photos/seed/diner-dior/800/600",
+      "imageHint": "fashion gala"
+    },
+    {
+      "id": "diner-senate",
+      "description": "The impressive interior of the Palais du Luxembourg",
+      "imageUrl": "https://picsum.photos/seed/diner-senate/800/600",
+      "imageHint": "historic building"
+    },
+    {
+      "id": "diner-slimane-flyer",
+      "description": "Promotional flyer for a concert by Slimane",
+      "imageUrl": "https://picsum.photos/seed/diner-slimane/400/560",
+      "imageHint": "concert flyer"
+    },
+    {
+      "id": "crescendo-hero",
+      "description": "Musical performance on a rooftop at sunset",
+      "imageUrl": "https://picsum.photos/seed/crescendo-hero/1920/1080",
+      "imageHint": "rooftop concert"
+    },
+    {
+      "id": "crescendo-intro",
+      "description": "Children smiling and looking hopeful",
+      "imageUrl": "https://picsum.photos/seed/crescendo-intro/800/600",
+      "imageHint": "happy children"
+    },
+     {
+      "id": "crescendo-impact",
+      "description": "Hands holding a glowing lightbulb, symbolizing ideas and impact",
+      "imageUrl": "https://picsum.photos/seed/crescendo-impact/800/600",
+      "imageHint": "idea impact"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+diff --git a/node_modules/three-globe/dist/three-globe.mjs b/node_modules/three-globe/dist/three-globe.mjs
+index 0149125..b08b3a0 100644
+--- a/node_modules/three-globe/dist/three-globe.mjs
++++ b/node_modules/three-globe/dist/three-globe.mjs
+@@ -16,9 +16,9 @@ import { sum, max } from 'd3-array';
+ 
+ // import { StorageInstancedBufferAttribute, WebGPURenderer } from 'three/webgpu';
+ // import * as tsl from 'three/tsl';
+-import { Line2 } from 'three/examples/jsm/lines/Line2.js';
+-import { LineGeometry } from 'three/examples/jsm/lines/LineGeometry.js';
+-import { LineMaterial } from 'three/examples/jsm/lines/LineMaterial.js';
++// import { Line2 } from 'three/examples/jsm/lines/Line2.js';
++// import { LineGeometry } from 'three/examples/jsm/lines/LineGeometry.js';
++// import { LineMaterial } from 'three/examples/jsm/lines/LineMaterial.js';
+ 
+ function styleInject(css, ref) {
+   if ( ref === void 0 ) ref = {};
