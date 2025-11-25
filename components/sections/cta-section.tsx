@@ -64,10 +64,10 @@ export function CtaSection() {
           variants={itemVariants}
           className="mt-8 flex flex-col sm:flex-row items-center justify-center gap-4"
         >
-          <Button asChild size="lg" className="bg-accent hover:bg-accent/90 text-accent-foreground rounded-full transition-transform hover:scale-105">
+          <Button asChild size="lg" className="bg-accent hover:bg-accent/90 text-accent-foreground font-semibold rounded-full transition-transform hover:scale-105 shadow-lg [text-shadow:0_1px_2px_rgba(0,0,0,0.2)]">
             <Link href="/donate">{t("donate")}</Link>
           </Button>
-          <Button asChild size="lg" variant="secondary" className="bg-white/10 text-white hover:bg-white/20 rounded-full transition-transform hover:scale-105 backdrop-blur-sm">
+          <Button asChild size="lg" variant="secondary" className="bg-white text-primary hover:bg-white/90 font-semibold rounded-full transition-transform hover:scale-105 shadow-lg">
             <Link href="/join/join-us">{t("volunteer")}</Link>
           </Button>
         </motion.div>
