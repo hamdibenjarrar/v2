@@ -109,7 +109,7 @@ export function TeamBuilding() {
           </div>
           <div className="relative h-80 w-full rounded-lg overflow-hidden shadow-xl">
             <Image
-              src="/impact/team.jpeg"
+              src="/team.jpeg"
               alt="Team in a team-building training session"
               fill
               className="object-cover"

@@ -24,7 +24,6 @@ import {
 } from '@/components/ui/form';
 import { useToast } from '@/hooks/use-toast';
 import { createClient } from '@/lib/supabase/client';
-import { seedDatabase, shopProducts } from '@/lib/seed';
 
 const productSchema = z.object({
   name: z.string().min(1, 'Product name is required'),
@@ -49,7 +48,6 @@ export function AddProductDialog({
   const supabase = createClient();
   const { toast } = useToast();
   const [isSubmitting, setIsSubmitting] = useState(false);
-  const [isSeeding, setIsSeeding] = useState(false);
 
   const form = useForm<ProductFormData>({
     resolver: zodResolver(productSchema),
@@ -61,28 +59,6 @@ export function AddProductDialog({
       is_organic: false,
     },
   });
-
-  const handleSeed = async () => {
-    setIsSeeding(true);
-    try {
-      await seedDatabase(supabase);
-      toast({
-        title: 'Database Seeded!',
-        description: `${shopProducts.length} products have been added to your store.`,
-      });
-      onOpenChange(false);
-       window.location.reload();
-    } catch (error) {
-       console.error('Error seeding database:', error);
-       toast({
-        variant: 'destructive',
-        title: 'Seeding Failed',
-        description: 'Could not seed the database. Check console for errors.',
-      });
-    } finally {
-      setIsSeeding(false);
-    }
-  }
 
   const onSubmit = async (data: ProductFormData) => {
     setIsSubmitting(true);
@@ -123,6 +99,7 @@ export function AddProductDialog({
       });
       form.reset();
       onOpenChange(false);
+      window.location.reload();
     } catch (error) {
       console.error('Error adding product:', error);
       toast({
@@ -223,10 +200,7 @@ export function AddProductDialog({
                 </FormItem>
               )}
             />
-            <div className="flex justify-between items-center">
-              <Button type="button" variant="outline" onClick={handleSeed} disabled={isSeeding}>
-                {isSeeding ? 'Seeding...' : 'Seed Database'}
-              </Button>
+             <div className="flex justify-end items-center">
               <Button type="submit" disabled={isSubmitting}>
                 {isSubmitting ? 'Adding...' : 'Add Product'}
               </Button>
@@ -237,5 +211,3 @@ export function AddProductDialog({
     </Dialog>
   );
 }
-
-    

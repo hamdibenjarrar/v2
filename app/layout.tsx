@@ -5,8 +5,30 @@ import { Toaster } from "@/components/ui/toaster";
 export const dynamic = 'force-dynamic';
 
 export const metadata: Metadata = {
-  title: 'Wallah We Can Reimagined',
-  description: 'Rebuilding the Wallah We Can homepage with Next.js',
+  title: 'Wallah We Can | Investing in Childhood for a Sustainable Future',
+  description: 'Wallah We Can is a Tunisian non-profit organization that develops entrepreneurial and ecological solutions to address major social issues related to childhood. Join us to make a difference.',
+  keywords: 'Wallah We Can, non-profit, Tunisia, childhood, education, health, protection, Green School, Kidchen, Ecolibree',
+  openGraph: {
+    title: 'Wallah We Can | Investing in Childhood for a Sustainable Future',
+    description: 'Join Wallah We Can in our mission to create a sustainable and fair future for children in Tunisia and beyond through innovative, entrepreneurial projects.',
+    url: 'https://wallahwecan.org',
+    siteName: 'Wallah We Can',
+    images: [
+      {
+        url: '/og-image.jpg', 
+        width: 1200,
+        height: 630,
+      },
+    ],
+    locale: 'en_US',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Wallah We Can | Investing in Childhood for a Sustainable Future',
+    description: 'Support our mission to empower children through sustainable projects in education, health, and environmental action.',
+    images: ['/twitter-image.jpg'], 
+  },
 };
 
 export default function RootLayout({
